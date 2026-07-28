@@ -5,3 +5,4 @@ __pycache__/
 *.pyc
 Exams/
 
+_setup_reference/

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <rect width="240" height="240" rx="42" fill="#2457d6"/>
+  <path d="M120 28 194 58v58c0 47-29 78-74 98-45-20-74-51-74-98V58z"
+        fill="#ffffff" opacity=".14"/>
+  <text x="120" y="128"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="58"
+        font-weight="700"
+        fill="#ffffff">CHS</text>
+  <text x="120" y="166"
+        text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="19"
+        font-weight="700"
+        fill="#ffffff">EXAM PREP</text>
+</svg>

@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Catholic High School Entrance Exams Practice Simulator</title>
+  <link rel="stylesheet" href="styles.css?v=3" />
+</head>
+<body>
+  <main class="card">
+    <img id="logo" class="logo" alt="Catholic High School Entrance Exams logo" />
+    <h1 id="brand" class="title"></h1>
+
+    <p class="subtitle">
+      HSPT, TACHS, and COOP practice in one complete online platform.
+    </p>
+
+    <label class="label" for="pw">Access Code</label>
+    <input
+      id="pw"
+      class="input"
+      type="password"
+      placeholder="Enter code"
+      autocomplete="off"
+    />
+
+    <button id="btn" class="btn">Enter Platform</button>
+    <p id="msg" class="msg"></p>
+  </main>
+
+  <script src="common.js?v=4"></script>
+  <script>
+    (async function () {
+      const examId = getExamFromUrl();
+      const msg = document.getElementById("msg");
+      const pw = document.getElementById("pw");
+      const btn = document.getElementById("btn");
+
+      try {
+        const cfg = await loadConfig(examId);
+
+        applyTheme(cfg.theme || "dark");
+        document.getElementById("brand").textContent = cfg.brandName;
+        document.getElementById("logo").src = cfg.logoPath;
+
+        if (isAccessGranted(examId)) {
+          goToApp(examId);
+          return;
+        }
+
+        function attempt() {
+          msg.textContent = "";
+
+          if (pw.value.trim() === cfg.accessPassword) {
+            grantAccess(examId);
+            goToApp(examId);
+          } else {
+            msg.textContent = "Incorrect code. Please try again.";
+          }
+        }
+
+        btn.addEventListener("click", attempt);
+
+        pw.addEventListener("keydown", event => {
+          if (event.key === "Enter") attempt();
+        });
+      } catch (error) {
+        msg.textContent = "Config load error. Check the portal files.";
+        console.error(error);
+      }
+    })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,315 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Catholic High School Entrance Exams Practice Simulator</title>
+  <link rel="stylesheet" href="styles.css?v=3" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brandbar">
+      <img id="logo" class="logo-small" alt="Catholic entrance exam logo" />
+
+      <div>
+        <div id="brand" class="brandname"></div>
+        <div class="brandnote">Member Access</div>
+      </div>
+    </div>
+
+    <nav class="nav">
+      <a class="navlink" href="#" data-page="home">Home</a>
+      <a class="navlink" href="#" data-page="sim">Exam Simulator</a>
+      <a class="navlink" href="#" data-page="pdf">Printable Practice Exams</a>
+      <a class="navlink" href="#" data-page="flashcards" id="flashcardsNav">Flashcards</a>
+      <a class="navlink" href="#" id="logoutLink">Log out</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section id="page-home" class="page">
+      <h2>Welcome</h2>
+
+      <p>
+        Prepare for Catholic high school admission with one platform covering
+        the HSPT, TACHS, and COOP.
+      </p>
+
+      <p class="helper">
+        Choose Exam Simulator for interactive practice or Printable Practice
+        Exams for full-length paper-based tests.
+      </p>
+
+      <div class="portalSummary">
+        <div class="summaryItem">
+          <strong>3</strong>
+          <span>Entrance Exams</span>
+        </div>
+
+        <div class="summaryItem">
+          <strong>30</strong>
+          <span>Full-Length Tests</span>
+        </div>
+
+        <div class="summaryItem">
+          <strong>14</strong>
+          <span>Practice Sections</span>
+        </div>
+      </div>
+    </section>
+
+    <section id="page-sim" class="page hidden">
+      <h2>Exam Simulator</h2>
+
+      <div class="panel">
+        <label class="label" for="examSelect">Choose Your Exam</label>
+        <select id="examSelect" class="select"></select>
+
+        <p id="familyDescription" class="helper"></p>
+
+        <label class="label" for="sectionSelect" style="margin-top:18px;">
+          Choose Section
+        </label>
+        <select id="sectionSelect" class="select"></select>
+
+        <button id="startSim" class="btn" style="margin-top:14px;">
+          Continue
+        </button>
+
+        <p class="helper">
+          You will choose Exam Mode or Practice Mode on the next step.
+        </p>
+      </div>
+
+      <div id="modePanel" class="panel hidden" style="margin-top:16px;">
+        <h3 style="margin:0 0 10px;">Select a Mode</h3>
+
+        <div class="row">
+          <button id="examModeBtn" class="btn btn-secondary">
+            Exam Mode
+          </button>
+
+          <button id="practiceModeBtn" class="btn btn-secondary">
+            Practice Mode
+          </button>
+        </div>
+
+        <p class="helper" style="margin-top:10px;">
+          Exam Mode runs one complete selected section with recommended timing.
+          Practice Mode provides shorter rotating question blocks.
+        </p>
+      </div>
+    </section>
+
+    <section id="page-pdf" class="page hidden">
+      <h2>Printable Practice Exams</h2>
+
+      <p class="helper">
+        Download full-length HSPT, TACHS, and COOP practice exams for
+        paper-based study.
+      </p>
+
+      <div id="pdfList" class="pdfList"></div>
+    </section>
+
+    <section id="page-flashcards" class="page hidden">
+      <h2>Flashcards</h2>
+
+      <p class="helper">
+        Download the flashcard pack for focused review.
+      </p>
+
+      <div id="flashcardsList" class="pdfList"></div>
+    </section>
+  </main>
+
+  <script src="common.js?v=4"></script>
+
+  <script>
+    (async function () {
+      const examId = getExamFromUrl();
+
+      if (!isAccessGranted(examId)) {
+        goToWelcome(examId);
+        return;
+      }
+
+      const cfg = await loadConfig(examId);
+
+      applyTheme(cfg.theme || "dark");
+      document.getElementById("brand").textContent = cfg.brandName;
+      document.getElementById("logo").src = cfg.logoPath;
+
+      const pages = {
+        home: document.getElementById("page-home"),
+        sim: document.getElementById("page-sim"),
+        pdf: document.getElementById("page-pdf"),
+        flashcards: document.getElementById("page-flashcards")
+      };
+
+      function show(pageKey) {
+        Object.values(pages).forEach(page => page.classList.add("hidden"));
+
+        if (pages[pageKey]) {
+          pages[pageKey].classList.remove("hidden");
+        }
+      }
+
+      document
+        .querySelectorAll(".navlink[data-page]")
+        .forEach(link => {
+          link.addEventListener("click", event => {
+            event.preventDefault();
+            show(link.dataset.page);
+          });
+        });
+
+      document
+        .getElementById("logoutLink")
+        .addEventListener("click", event => {
+          event.preventDefault();
+          revokeAccess(examId);
+          goToWelcome(examId);
+        });
+
+      const flashcardsNav = document.getElementById("flashcardsNav");
+
+      if (!cfg.flashcards || !cfg.flashcards.length) {
+        flashcardsNav.classList.add("hidden");
+      }
+
+      const examSelect = document.getElementById("examSelect");
+      const sectionSelect = document.getElementById("sectionSelect");
+      const familyDescription = document.getElementById("familyDescription");
+      const startSim = document.getElementById("startSim");
+      const modePanel = document.getElementById("modePanel");
+      const examModeBtn = document.getElementById("examModeBtn");
+      const practiceModeBtn = document.getElementById("practiceModeBtn");
+
+      const families = cfg.examFamilies || [];
+      const sections = cfg.sections || [];
+
+      function selectedFamily() {
+        return families.find(item => item.id === examSelect.value);
+      }
+
+      function populateFamilies() {
+        examSelect.innerHTML = "";
+
+        families.forEach(family => {
+          const option = document.createElement("option");
+          option.value = family.id;
+          option.textContent = family.label;
+          examSelect.appendChild(option);
+        });
+      }
+
+      function populateSections() {
+        const family = selectedFamily();
+        const familySections = sections.filter(
+          section => section.family === examSelect.value
+        );
+
+        sectionSelect.innerHTML = "";
+
+        familySections.forEach(section => {
+          const option = document.createElement("option");
+          option.value = section.id;
+          option.textContent = section.label;
+          sectionSelect.appendChild(option);
+        });
+
+        familyDescription.textContent = family
+          ? family.description
+          : "";
+
+        modePanel.classList.add("hidden");
+      }
+
+      populateFamilies();
+      populateSections();
+
+      examSelect.addEventListener("change", populateSections);
+
+      sectionSelect.addEventListener("change", () => {
+        modePanel.classList.add("hidden");
+      });
+
+      startSim.addEventListener("click", () => {
+        if (!sectionSelect.value) return;
+        modePanel.classList.remove("hidden");
+      });
+
+      function goRunner(mode) {
+        window.location.href =
+          `runner.html?exam=${encodeURIComponent(examId)}` +
+          `&section=${encodeURIComponent(sectionSelect.value)}` +
+          `&mode=${encodeURIComponent(mode)}`;
+      }
+
+      examModeBtn.addEventListener("click", () => goRunner("exam"));
+      practiceModeBtn.addEventListener("click", () => goRunner("practice"));
+
+      const pdfList = document.getElementById("pdfList");
+
+      function renderPDFs() {
+        const items = cfg.printables || [];
+        pdfList.innerHTML = "";
+
+        families.forEach(family => {
+          const familyItems = items.filter(
+            item => item.family === family.id
+          );
+
+          if (!familyItems.length) return;
+
+          const group = document.createElement("section");
+          group.className = "pdfGroup";
+
+          const heading = document.createElement("h3");
+          heading.textContent = `${family.label} Full-Length Practice Exams`;
+          group.appendChild(heading);
+
+          familyItems.forEach(item => {
+            const link = document.createElement("a");
+            link.className = "pdfBtn";
+            link.textContent = item.label;
+            link.href = `../packs/${examId}/pdf/${item.file}`;
+            link.target = "_blank";
+            link.rel = "noopener";
+            group.appendChild(link);
+          });
+
+          pdfList.appendChild(group);
+        });
+      }
+
+      renderPDFs();
+
+      const flashcardsList = document.getElementById("flashcardsList");
+
+      function renderFlashcards() {
+        const items = cfg.flashcards || [];
+        flashcardsList.innerHTML = "";
+
+        if (!items.length) {
+          flashcardsList.textContent = "No flashcards available yet.";
+          return;
+        }
+
+        items.forEach(item => {
+          const link = document.createElement("a");
+          link.className = "pdfBtn";
+          link.textContent = item.label;
+          link.href = `../packs/${examId}/pdf/${item.file}`;
+          link.target = "_blank";
+          link.rel = "noopener";
+          flashcardsList.appendChild(link);
+        });
+      }
+
+      renderFlashcards();
+    })();
+  </script>
+</body>
+</html>

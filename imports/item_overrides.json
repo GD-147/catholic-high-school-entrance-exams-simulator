@@ -1,5 +1,60 @@
 {
-  "replacements": {},
-  "answerCorrections": {},
-  "explanationCorrections": {}
+  "replacements": {
+    "HSPT-L1-023": {
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "stimulusId": "None",
+      "prompt": "Which sentence is grammatically correct?",
+      "choices": {
+        "A": "Neither of the answers are correct.",
+        "B": "Neither of the answers be correct.",
+        "C": "Neither of the answers is correct.",
+        "D": "Neither of the answers have been correct."
+      },
+      "correct": "C",
+      "correctAnswer": "Neither of the answers is correct.",
+      "explanation": "The singular subject neither requires the singular verb is."
+    },
+    "HSPT-R1-046": {
+      "section": "Reading Comprehension",
+      "category": "Reading Comprehension",
+      "skill": "Vocabulary in Context",
+      "stimulusId": "HSPT-R1-S09",
+      "prompt": "As used in the first paragraph, contributes most nearly means ____.",
+      "choices": {
+        "A": "measures precisely",
+        "B": "completely prevents",
+        "C": "increases slightly",
+        "D": "helps cause"
+      },
+      "correct": "D",
+      "correctAnswer": "helps cause",
+      "explanation": "Heat stored and released by developed surfaces helps cause the urban heat-island effect."
+    }
+  },
+  "answerCorrections": {
+    "HSPT-L1-014": {
+      "correct": "C",
+      "correctAnswer": "A student committee could rotate the book selection each month."
+    },
+    "HSPT-L1-015": {
+      "correct": "D",
+      "correctAnswer": "Turning Empty Space into a Learning Area"
+    },
+    "HSPT-Q3-021": {
+      "correct": "B",
+      "correctAnswer": "Quantity B is greater."
+    },
+    "HSPT-Q3-039": {
+      "correct": "A",
+      "correctAnswer": "Quantity A is greater."
+    }
+  },
+  "explanationCorrections": {
+    "HSPT-L1-014": "This sentence logically follows the description of the covered book cabinet by explaining how its selection could be refreshed and managed.",
+    "HSPT-L1-015": "The paragraph focuses on converting an unused schoolyard corner into a useful learning space, so this title best expresses its central idea.",
+    "HSPT-Q3-021": "Quantity A is 0.6 × 45 = 27. Since 27 is less than 30, Quantity B is greater.",
+    "HSPT-Q3-039": "Using 30 = 1/2 × 10 × h gives h = 6. Since 6 is greater than 5, Quantity A is greater."
+  }
 }

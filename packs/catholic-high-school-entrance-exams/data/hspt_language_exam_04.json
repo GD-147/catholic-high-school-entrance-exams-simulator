@@ -1,0 +1,1069 @@
+{
+  "title": "HSPT Language Practice Test 04",
+  "examFamily": "hspt",
+  "examNumber": 4,
+  "section": "Language",
+  "questionCount": 60,
+  "questions": [
+    {
+      "id": "HSPT-L4-001",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Choose the best response. Which sentence correctly punctuates a direct quotation?",
+      "choices": {
+        "A": "Mina asked, “Is the telescope ready?”",
+        "B": "Mina asked “Is the telescope ready”?",
+        "C": "Mina asked, “Is the telescope ready”.",
+        "D": "Mina asked “Is the telescope ready?”"
+      },
+      "correct": "A",
+      "correctAnswer": "Mina asked, “Is the telescope ready?”",
+      "explanation": "A comma introduces the quotation, and the question mark belongs inside the closing quotation mark."
+    },
+    {
+      "id": "HSPT-L4-002",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Choose the best response. Which sentence correctly joins two closely related independent clauses?",
+      "choices": {
+        "A": "The rain stopped, the championship game continued.",
+        "B": "The rain stopped; the championship game continued.",
+        "C": "The rain stopped: and the championship game continued.",
+        "D": "The rain stopped the championship game; continued."
+      },
+      "correct": "B",
+      "correctAnswer": "The rain stopped; the championship game continued.",
+      "explanation": "A semicolon correctly joins two related independent clauses without a conjunction."
+    },
+    {
+      "id": "HSPT-L4-003",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Choose the best response. Which sentence is punctuated correctly?",
+      "choices": {
+        "A": "My brother who lives in Denver, designs bridges.",
+        "B": "My brother who, lives in Denver designs bridges.",
+        "C": "My brother, who lives in Denver, designs bridges.",
+        "D": "My brother who lives in Denver designs, bridges."
+      },
+      "correct": "C",
+      "correctAnswer": "My brother, who lives in Denver, designs bridges.",
+      "explanation": "Commas correctly set off the nonessential clause who lives in Denver."
+    },
+    {
+      "id": "HSPT-L4-004",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Choose the best response. Which sentence is capitalized correctly?",
+      "choices": {
+        "A": "Professor chen teaches Biology at Westfield Academy.",
+        "B": "professor Chen teaches biology at westfield academy.",
+        "C": "Professor Chen teaches Biology at Westfield academy.",
+        "D": "Professor Chen teaches biology at Westfield Academy."
+      },
+      "correct": "D",
+      "correctAnswer": "Professor Chen teaches biology at Westfield Academy.",
+      "explanation": "The title before a name and the school name are capitalized; a general subject is not."
+    },
+    {
+      "id": "HSPT-L4-005",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Choose the best response. Which sentence is capitalized correctly?",
+      "choices": {
+        "A": "We crossed the Pacific Ocean before arriving in New Zealand.",
+        "B": "We crossed the pacific ocean before arriving in New Zealand.",
+        "C": "We crossed the Pacific ocean before arriving in new zealand.",
+        "D": "We crossed the pacific Ocean before arriving in New zealand."
+      },
+      "correct": "A",
+      "correctAnswer": "We crossed the Pacific Ocean before arriving in New Zealand.",
+      "explanation": "All significant words in the proper geographic names are capitalized."
+    },
+    {
+      "id": "HSPT-L4-006",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Choose the best response. Choose the correctly spelled word meaning “able to be relied upon.”",
+      "choices": {
+        "A": "dependible",
+        "B": "dependable",
+        "C": "depandable",
+        "D": "dependabel"
+      },
+      "correct": "B",
+      "correctAnswer": "dependable",
+      "explanation": "Dependable is the standard spelling."
+    },
+    {
+      "id": "HSPT-L4-007",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Choose the best response. Which sentence contains a misspelled word?",
+      "choices": {
+        "A": "The audience remained attentive.",
+        "B": "The schedule changed unexpectedly.",
+        "C": "The speaker gave a brief recomendation.",
+        "D": "The volunteers organized the supplies."
+      },
+      "correct": "C",
+      "correctAnswer": "The speaker gave a brief recomendation.",
+      "explanation": "Recommendation requires two c’s and two m’s."
+    },
+    {
+      "id": "HSPT-L4-008",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the best response. Which sentence has correct subject-verb agreement?",
+      "choices": {
+        "A": "Neither the drums nor the piano are available.",
+        "B": "Neither the drums nor the piano were available now.",
+        "C": "Neither the drums nor the piano be available.",
+        "D": "Neither the drums nor the piano is available."
+      },
+      "correct": "D",
+      "correctAnswer": "Neither the drums nor the piano is available.",
+      "explanation": "With neither…nor, the verb agrees with the nearer singular subject piano."
+    },
+    {
+      "id": "HSPT-L4-009",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the best response. Which sentence is complete and correctly formed?",
+      "choices": {
+        "A": "Although the road was steep, the hikers maintained their pace.",
+        "B": "Although the road was steep.",
+        "C": "The road was steep, the hikers maintained their pace.",
+        "D": "Maintaining their pace although the steep road."
+      },
+      "correct": "A",
+      "correctAnswer": "Although the road was steep, the hikers maintained their pace.",
+      "explanation": "The dependent clause is joined to a complete independent clause."
+    },
+    {
+      "id": "HSPT-L4-010",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Choose the best response. Which sentence uses parallel structure correctly?",
+      "choices": {
+        "A": "The internship required filing records, to answer calls, and greeting visitors.",
+        "B": "The internship required filing records, answering calls, and greeting visitors.",
+        "C": "The internship required records to be filed, answering calls, and visitors were greeted.",
+        "D": "The internship required to file records, calls were answered, and greeting visitors."
+      },
+      "correct": "B",
+      "correctAnswer": "The internship required filing records, answering calls, and greeting visitors.",
+      "explanation": "All three items use matching gerund forms."
+    },
+    {
+      "id": "HSPT-L4-011",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the best response. Which word correctly completes the sentence? The hikers packed ____ water than they needed.",
+      "choices": {
+        "A": "many",
+        "B": "muchest",
+        "C": "more",
+        "D": "most"
+      },
+      "correct": "C",
+      "correctAnswer": "more",
+      "explanation": "More correctly compares the amount packed with the amount needed."
+    },
+    {
+      "id": "HSPT-L4-012",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Choose the best response. Which transition best completes the sentence? The first design was inexpensive; ____, it could not support enough weight.",
+      "choices": {
+        "A": "therefore",
+        "B": "similarly",
+        "C": "for example",
+        "D": "however"
+      },
+      "correct": "D",
+      "correctAnswer": "however",
+      "explanation": "However signals the contrast between low cost and inadequate strength."
+    },
+    {
+      "id": "HSPT-L4-013",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Choose the best response. Which sentence should be removed because it does not support the passage’s main focus?",
+      "choices": {
+        "A": "Sentence 4",
+        "B": "Sentence 2",
+        "C": "Sentence 5",
+        "D": "Sentence 6"
+      },
+      "correct": "A",
+      "correctAnswer": "Sentence 4",
+      "explanation": "The weekly soup detail does not explain the waiting problem, proposed changes, or results.",
+      "stimulusId": "HSPT-L4-S01",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "A Better Lunch Line",
+      "stimulusText": "(1) Students at Brookside School often spent most of lunch waiting to buy food. (2) The student council observed the line for one week and found that choosing a meal at the counter caused the longest delays. (3) Council members suggested posting the menu near the entrance so students could decide earlier. (4) The cafeteria serves soup on Thursdays. (5) They also proposed a separate station for students buying only drinks. (6) After the changes, the average wait fell by four minutes. (7) Careful observation and two simple adjustments gave students more time to eat and talk."
+    },
+    {
+      "id": "HSPT-L4-014",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Choose the best response. Which sentence would best introduce the passage?",
+      "choices": {
+        "A": "School lunches contain many different foods.",
+        "B": "Student councils meet throughout the year.",
+        "C": "A small investigation helped students solve a frustrating cafeteria problem.",
+        "D": "Some students prefer to bring lunch from home."
+      },
+      "correct": "C",
+      "correctAnswer": "A small investigation helped students solve a frustrating cafeteria problem.",
+      "explanation": "This topic sentence previews both the problem-solving process and cafeteria setting.",
+      "stimulusId": "HSPT-L4-S01",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "A Better Lunch Line",
+      "stimulusText": "(1) Students at Brookside School often spent most of lunch waiting to buy food. (2) The student council observed the line for one week and found that choosing a meal at the counter caused the longest delays. (3) Council members suggested posting the menu near the entrance so students could decide earlier. (4) The cafeteria serves soup on Thursdays. (5) They also proposed a separate station for students buying only drinks. (6) After the changes, the average wait fell by four minutes. (7) Careful observation and two simple adjustments gave students more time to eat and talk."
+    },
+    {
+      "id": "HSPT-L4-015",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Choose the best response. Which revision best combines sentences 2 and 3?",
+      "choices": {
+        "A": "The council observed the line, and one week was long, with the menu at the entrance.",
+        "B": "Counter decisions caused delays, the council suggested a menu and observed them.",
+        "C": "Posting the menu, the longest delays were observed by the council near the entrance.",
+        "D": "After observing that counter decisions caused the longest delays, council members suggested posting the menu near the entrance."
+      },
+      "correct": "D",
+      "correctAnswer": "After observing that counter decisions caused the longest delays, council members suggested posting the menu near the entrance.",
+      "explanation": "The revision clearly links the observed cause to the proposed solution without unnecessary repetition.",
+      "stimulusId": "HSPT-L4-S01",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "A Better Lunch Line",
+      "stimulusText": "(1) Students at Brookside School often spent most of lunch waiting to buy food. (2) The student council observed the line for one week and found that choosing a meal at the counter caused the longest delays. (3) Council members suggested posting the menu near the entrance so students could decide earlier. (4) The cafeteria serves soup on Thursdays. (5) They also proposed a separate station for students buying only drinks. (6) After the changes, the average wait fell by four minutes. (7) Careful observation and two simple adjustments gave students more time to eat and talk."
+    },
+    {
+      "id": "HSPT-L4-016",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence correctly uses an apostrophe?",
+      "choices": {
+        "A": "The two fox’s tracks crossed near the creek.",
+        "B": "The two foxes tracks’ crossed near the creek.",
+        "C": "The two foxes’s tracks crossed near the creek.",
+        "D": "The two foxes’ tracks crossed near the creek."
+      },
+      "correct": "D",
+      "correctAnswer": "The two foxes’ tracks crossed near the creek.",
+      "explanation": "The plural possessive foxes takes an apostrophe after the s."
+    },
+    {
+      "id": "HSPT-L4-017",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence correctly uses a colon?",
+      "choices": {
+        "A": "Bring these items: a flashlight, a map, and water.",
+        "B": "Bring: these items a flashlight, a map, and water.",
+        "C": "Bring these items, a flashlight: a map, and water.",
+        "D": "Bring these: items, a flashlight, a map, and water."
+      },
+      "correct": "A",
+      "correctAnswer": "Bring these items: a flashlight, a map, and water.",
+      "explanation": "A colon follows a complete clause and introduces the list."
+    },
+    {
+      "id": "HSPT-L4-018",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence is capitalized correctly?",
+      "choices": {
+        "A": "In july, uncle Mateo will visit Lake Erie.",
+        "B": "In July, Uncle Mateo will visit Lake Erie.",
+        "C": "In July, Uncle Mateo will visit lake erie.",
+        "D": "In July, uncle Mateo will visit Lake erie."
+      },
+      "correct": "B",
+      "correctAnswer": "In July, Uncle Mateo will visit Lake Erie.",
+      "explanation": "The month, family title used as a name, and proper lake name are capitalized."
+    },
+    {
+      "id": "HSPT-L4-019",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which sentence is capitalized correctly?",
+      "choices": {
+        "A": "The declaration of independence was signed in Philadelphia.",
+        "B": "The Declaration Of Independence was signed in philadelphia.",
+        "C": "The Declaration of Independence was signed in Philadelphia.",
+        "D": "The Declaration of independence was signed in Philadelphia."
+      },
+      "correct": "C",
+      "correctAnswer": "The Declaration of Independence was signed in Philadelphia.",
+      "explanation": "The historical document title and city name use standard capitalization."
+    },
+    {
+      "id": "HSPT-L4-020",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Choose the correctly spelled word.",
+      "choices": {
+        "A": "ocassionally",
+        "B": "occasionly",
+        "C": "occasionaly",
+        "D": "occasionally"
+      },
+      "correct": "D",
+      "correctAnswer": "occasionally",
+      "explanation": "Occasionally contains two c’s, one s, and the ending -ally."
+    },
+    {
+      "id": "HSPT-L4-021",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which sentence contains a misspelled word?",
+      "choices": {
+        "A": "We received a seperate envelope for each form.",
+        "B": "The decision was completely reasonable.",
+        "C": "Her explanation was concise.",
+        "D": "The equipment remained secure."
+      },
+      "correct": "A",
+      "correctAnswer": "We received a seperate envelope for each form.",
+      "explanation": "Separate is spelled with ar in the middle, not er."
+    },
+    {
+      "id": "HSPT-L4-022",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Choose the correctly spelled word meaning “required.”",
+      "choices": {
+        "A": "neccessary",
+        "B": "necessary",
+        "C": "necessery",
+        "D": "necesary"
+      },
+      "correct": "B",
+      "correctAnswer": "necessary",
+      "explanation": "Necessary is spelled with one c and two s’s."
+    },
+    {
+      "id": "HSPT-L4-023",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which sentence uses pronouns correctly?",
+      "choices": {
+        "A": "The coach gave Mia and I the schedule.",
+        "B": "The coach gave she and me the schedule.",
+        "C": "The coach gave Mia and me the schedule.",
+        "D": "The coach gave Mia and myself the schedule."
+      },
+      "correct": "C",
+      "correctAnswer": "The coach gave Mia and me the schedule.",
+      "explanation": "Me is the correct object pronoun after gave."
+    },
+    {
+      "id": "HSPT-L4-024",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which sentence uses the correct verb tense?",
+      "choices": {
+        "A": "By the time the bus arrived, we wait for twenty minutes.",
+        "B": "By the time the bus arrived, we will waited for twenty minutes.",
+        "C": "By the time the bus arrived, we have wait for twenty minutes.",
+        "D": "By the time the bus arrived, we had waited for twenty minutes."
+      },
+      "correct": "D",
+      "correctAnswer": "By the time the bus arrived, we had waited for twenty minutes.",
+      "explanation": "Past perfect correctly shows that the waiting began before the bus arrived."
+    },
+    {
+      "id": "HSPT-L4-025",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which sentence contains no misplaced or dangling modifier?",
+      "choices": {
+        "A": "Walking through the garden, Priya noticed the first tulips.",
+        "B": "Walking through the garden, the first tulips appeared to Priya.",
+        "C": "Covered in dew, Priya photographed the grass.",
+        "D": "After reading the article, the experiment seemed clearer."
+      },
+      "correct": "A",
+      "correctAnswer": "Walking through the garden, Priya noticed the first tulips.",
+      "explanation": "Priya logically performs the action described by the opening modifier."
+    },
+    {
+      "id": "HSPT-L4-026",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which word correctly completes the sentence? The storm did not ____ our travel plans.",
+      "choices": {
+        "A": "effect",
+        "B": "affect",
+        "C": "effects",
+        "D": "affected"
+      },
+      "correct": "B",
+      "correctAnswer": "affect",
+      "explanation": "Affect is the verb meaning influence."
+    },
+    {
+      "id": "HSPT-L4-027",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which sentence uses the comparative form correctly?",
+      "choices": {
+        "A": "This route is least crowded than the highway.",
+        "B": "This route is more less crowded than the highway.",
+        "C": "This route is less crowded than the highway.",
+        "D": "This route is lesser crowded than the highway."
+      },
+      "correct": "C",
+      "correctAnswer": "This route is less crowded than the highway.",
+      "explanation": "Less crowded correctly compares two routes."
+    },
+    {
+      "id": "HSPT-L4-028",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which sentence should be removed because it is too general to support the passage’s focus?",
+      "choices": {
+        "A": "Sentence 2",
+        "B": "Sentence 5",
+        "C": "Sentence 6",
+        "D": "Sentence 4"
+      },
+      "correct": "D",
+      "correctAnswer": "Sentence 4",
+      "explanation": "Sentence 4 does not explain this garden’s problem, construction, or results.",
+      "stimulusId": "HSPT-L4-S02",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "A Garden for Rain",
+      "stimulusText": "(1) Last spring, our science club transformed a low patch beside the parking lot into a rain garden. (2) During storms, water had collected there and carried soil toward a drain. (3) We loosened the ground, added compost, and planted native grasses whose roots absorb water. (4) Native plants grow in many regions. (5) After several months, the garden held runoff long enough for much of it to soak into the soil. (6) The project reduced erosion, and it also created shelter for insects. (7) By studying one troublesome spot, our club found a solution with several benefits."
+    },
+    {
+      "id": "HSPT-L4-029",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which revision of sentence 6 is most concise?",
+      "choices": {
+        "A": "The project reduced erosion and created insect shelter.",
+        "B": "The project reduced erosion, and insect shelter was also something it created.",
+        "C": "Reducing erosion was done by the project, and it created shelter too.",
+        "D": "The project was a project that reduced erosion and also created shelter for insects."
+      },
+      "correct": "A",
+      "correctAnswer": "The project reduced erosion and created insect shelter.",
+      "explanation": "The revision preserves both results without repetition or unnecessary wording.",
+      "stimulusId": "HSPT-L4-S02",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "A Garden for Rain",
+      "stimulusText": "(1) Last spring, our science club transformed a low patch beside the parking lot into a rain garden. (2) During storms, water had collected there and carried soil toward a drain. (3) We loosened the ground, added compost, and planted native grasses whose roots absorb water. (4) Native plants grow in many regions. (5) After several months, the garden held runoff long enough for much of it to soak into the soil. (6) The project reduced erosion, and it also created shelter for insects. (7) By studying one troublesome spot, our club found a solution with several benefits."
+    },
+    {
+      "id": "HSPT-L4-030",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which sentence would best follow sentence 3?",
+      "choices": {
+        "A": "The club meets every other Wednesday after school.",
+        "B": "We chose species that could tolerate both temporary flooding and dry summer days.",
+        "C": "Parking lots contain painted spaces for cars.",
+        "D": "Some students prefer vegetables to grasses."
+      },
+      "correct": "B",
+      "correctAnswer": "We chose species that could tolerate both temporary flooding and dry summer days.",
+      "explanation": "This sentence adds a relevant detail about selecting plants for rain-garden conditions.",
+      "stimulusId": "HSPT-L4-S02",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "A Garden for Rain",
+      "stimulusText": "(1) Last spring, our science club transformed a low patch beside the parking lot into a rain garden. (2) During storms, water had collected there and carried soil toward a drain. (3) We loosened the ground, added compost, and planted native grasses whose roots absorb water. (4) Native plants grow in many regions. (5) After several months, the garden held runoff long enough for much of it to soak into the soil. (6) The project reduced erosion, and it also created shelter for insects. (7) By studying one troublesome spot, our club found a solution with several benefits."
+    },
+    {
+      "id": "HSPT-L4-031",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence is punctuated correctly?",
+      "choices": {
+        "A": "Before sunrise, we packed the tents, folded the blankets, and swept the cabin.",
+        "B": "Before sunrise we packed, the tents folded the blankets and swept the cabin.",
+        "C": "Before sunrise; we packed the tents, folded the blankets and, swept the cabin.",
+        "D": "Before sunrise we packed the tents folded the blankets, and swept the cabin."
+      },
+      "correct": "A",
+      "correctAnswer": "Before sunrise, we packed the tents, folded the blankets, and swept the cabin.",
+      "explanation": "The introductory phrase and the three items in the series are correctly separated by commas."
+    },
+    {
+      "id": "HSPT-L4-032",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence correctly punctuates a quotation?",
+      "choices": {
+        "A": "“Please label every sample”, Dr. Chen said.",
+        "B": "“Please label every sample,” Dr. Chen said.",
+        "C": "“Please label every sample” Dr. Chen, said.",
+        "D": "“Please label every sample.” Dr. Chen said."
+      },
+      "correct": "B",
+      "correctAnswer": "“Please label every sample,” Dr. Chen said.",
+      "explanation": "A comma belongs inside the closing quotation mark before the dialogue tag."
+    },
+    {
+      "id": "HSPT-L4-033",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence correctly uses a semicolon?",
+      "choices": {
+        "A": "The trail was muddy, nevertheless; the group continued.",
+        "B": "The trail; was muddy nevertheless, the group continued.",
+        "C": "The trail was muddy; nevertheless, the group continued.",
+        "D": "The trail was muddy nevertheless; the group continued."
+      },
+      "correct": "C",
+      "correctAnswer": "The trail was muddy; nevertheless, the group continued.",
+      "explanation": "A semicolon joins the independent clauses, and commas set off nevertheless."
+    },
+    {
+      "id": "HSPT-L4-034",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which option correctly capitalizes the poem title and course name?",
+      "choices": {
+        "A": "Our Class read “The Road Not Taken” in english class.",
+        "B": "Our class read “The road not taken” in English Class.",
+        "C": "Our class read “the Road Not Taken” in english class.",
+        "D": "Our class read “The Road Not Taken” in English class."
+      },
+      "correct": "D",
+      "correctAnswer": "Our class read “The Road Not Taken” in English class.",
+      "explanation": "Major words in the poem title and the language-course name English are capitalized."
+    },
+    {
+      "id": "HSPT-L4-035",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which option correctly capitalizes the title, place name, and holiday?",
+      "choices": {
+        "A": "The mayor spoke at Central Library on Memorial Day.",
+        "B": "The Mayor spoke at central library on Memorial Day.",
+        "C": "The mayor spoke at Central Library on memorial day.",
+        "D": "The mayor spoke at central Library on Memorial day."
+      },
+      "correct": "A",
+      "correctAnswer": "The mayor spoke at Central Library on Memorial Day.",
+      "explanation": "The official place name and holiday are capitalized; the common title mayor is not."
+    },
+    {
+      "id": "HSPT-L4-036",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which option correctly spells the word meaning “a special right”?",
+      "choices": {
+        "A": "privelege",
+        "B": "privilege",
+        "C": "priviledge",
+        "D": "privilage"
+      },
+      "correct": "B",
+      "correctAnswer": "privilege",
+      "explanation": "Privilege is spelled p-r-i-v-i-l-e-g-e."
+    },
+    {
+      "id": "HSPT-L4-037",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "In which sentence is one word spelled incorrectly?",
+      "choices": {
+        "A": "The audience remained attentive.",
+        "B": "The boundary was clearly marked.",
+        "C": "The committee will recomend a new schedule.",
+        "D": "The change occurred gradually."
+      },
+      "correct": "C",
+      "correctAnswer": "The committee will recomend a new schedule.",
+      "explanation": "Recommend requires two c’s and two m’s."
+    },
+    {
+      "id": "HSPT-L4-038",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which sentence has correct subject-verb agreement?",
+      "choices": {
+        "A": "Neither the lamps nor the clock belong in this box.",
+        "B": "Neither the lamps nor the clock are belonging in this box.",
+        "C": "Neither the lamps nor the clock have belonged in this box.",
+        "D": "Neither the lamps nor the clock belongs in this box."
+      },
+      "correct": "D",
+      "correctAnswer": "Neither the lamps nor the clock belongs in this box.",
+      "explanation": "With neither...nor, the verb agrees with the nearer subject clock: belongs."
+    },
+    {
+      "id": "HSPT-L4-039",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which sentence uses parallel structure?",
+      "choices": {
+        "A": "The internship required filing records, answering calls, and preparing reports.",
+        "B": "The internship required filing records, to answer calls, and reports were prepared.",
+        "C": "The internship required records to be filed, answering calls, and report preparation.",
+        "D": "The internship required to file records, calls were answered, and preparing reports."
+      },
+      "correct": "A",
+      "correctAnswer": "The internship required filing records, answering calls, and preparing reports.",
+      "explanation": "All three items use matching gerund phrases."
+    },
+    {
+      "id": "HSPT-L4-040",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which sentence correctly combines the ideas? The rain stopped. The players returned to the field.",
+      "choices": {
+        "A": "The rain stopped, the players returned to the field.",
+        "B": "When the rain stopped, the players returned to the field.",
+        "C": "Stopping the rain, the field returned the players.",
+        "D": "The players returned, and because to the field the rain stopped."
+      },
+      "correct": "B",
+      "correctAnswer": "When the rain stopped, the players returned to the field.",
+      "explanation": "The dependent clause clearly shows time and is correctly joined to the main clause."
+    },
+    {
+      "id": "HSPT-L4-041",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which word correctly completes the sentence? The new evidence may ____ the committee’s decision.",
+      "choices": {
+        "A": "altar",
+        "B": "allude",
+        "C": "alter",
+        "D": "adapt"
+      },
+      "correct": "C",
+      "correctAnswer": "alter",
+      "explanation": "Alter is the verb meaning change."
+    },
+    {
+      "id": "HSPT-L4-042",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which sentence uses fewer and less correctly?",
+      "choices": {
+        "A": "Less cars meant fewer noise near the school.",
+        "B": "Fewer cars meant fewer noise near the school.",
+        "C": "Less cars meant less noise near the school.",
+        "D": "Fewer cars meant less noise near the school."
+      },
+      "correct": "D",
+      "correctAnswer": "Fewer cars meant less noise near the school.",
+      "explanation": "Fewer modifies countable cars; less modifies uncountable noise."
+    },
+    {
+      "id": "HSPT-L4-043",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which sentence uses the word between correctly?",
+      "choices": {
+        "A": "The treaty settled the dispute between the two towns.",
+        "B": "The treaty settled the dispute among the two towns.",
+        "C": "The treaty settled the dispute beside the two towns.",
+        "D": "The treaty settled the dispute within of the two towns."
+      },
+      "correct": "A",
+      "correctAnswer": "The treaty settled the dispute between the two towns.",
+      "explanation": "Between is standard when referring to two distinct parties."
+    },
+    {
+      "id": "HSPT-L4-044",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which sentence should be removed because it does not contribute meaningfully to the passage?",
+      "choices": {
+        "A": "Sentence 2",
+        "B": "Sentence 6",
+        "C": "Sentence 5",
+        "D": "Sentence 8"
+      },
+      "correct": "B",
+      "correctAnswer": "Sentence 6",
+      "explanation": "Sentence 6 gives an isolated weather detail that is not developed or connected to the survey.",
+      "stimulusId": "HSPT-L4-S03",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "The Night Survey",
+      "stimulusText": "(1) Last October, our environmental club joined a nighttime survey of moths. (2) A biologist hung a white sheet between two trees and aimed a safe light toward it. (3) Moths landed on the cloth, where we photographed their wing patterns and recorded their sizes. (4) We worked quietly so that sudden movement would not disturb them. (5) In two hours, the group documented seventeen species. (6) The night was cold. (7) Before leaving, we checked the area for equipment and uploaded our observations to a shared database. (8) The survey showed us how a simple, careful method can reveal animals that usually go unnoticed."
+    },
+    {
+      "id": "HSPT-L4-045",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which sentence would best follow sentence 5?",
+      "choices": {
+        "A": "The park also has benches near its entrance.",
+        "B": "Seventeen is a number greater than sixteen.",
+        "C": "Several had never before been recorded in that section of the park.",
+        "D": "Our school cafeteria serves lunch at noon."
+      },
+      "correct": "C",
+      "correctAnswer": "Several had never before been recorded in that section of the park.",
+      "explanation": "The sentence develops the significance of documenting seventeen species.",
+      "stimulusId": "HSPT-L4-S03",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "The Night Survey",
+      "stimulusText": "(1) Last October, our environmental club joined a nighttime survey of moths. (2) A biologist hung a white sheet between two trees and aimed a safe light toward it. (3) Moths landed on the cloth, where we photographed their wing patterns and recorded their sizes. (4) We worked quietly so that sudden movement would not disturb them. (5) In two hours, the group documented seventeen species. (6) The night was cold. (7) Before leaving, we checked the area for equipment and uploaded our observations to a shared database. (8) The survey showed us how a simple, careful method can reveal animals that usually go unnoticed."
+    },
+    {
+      "id": "HSPT-L4-046",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which option correctly punctuates the introductory clause and series?",
+      "choices": {
+        "A": "After the rehearsal ended Maya, returned her costume thanked the director, and called her father.",
+        "B": "After the rehearsal ended; Maya returned her costume, thanked the director and called, her father.",
+        "C": "After the rehearsal ended, Maya returned her costume, thanked the director, and called her father.",
+        "D": "After the rehearsal ended Maya returned her costume thanked the director and, called her father."
+      },
+      "correct": "C",
+      "correctAnswer": "After the rehearsal ended, Maya returned her costume, thanked the director, and called her father.",
+      "explanation": "A comma follows the introductory clause, and commas correctly separate the series."
+    },
+    {
+      "id": "HSPT-L4-047",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Punctuation",
+      "prompt": "Which sentence correctly shows possession?",
+      "choices": {
+        "A": "The two coaches’ offices are beside the gym.",
+        "B": "The two coaches office’s are beside the gym.",
+        "C": "The two coach’s offices are beside the gym.",
+        "D": "The two coaches offices are beside the gym."
+      },
+      "correct": "A",
+      "correctAnswer": "The two coaches’ offices are beside the gym.",
+      "explanation": "The plural possessive coaches’ shows that the offices belong to two coaches."
+    },
+    {
+      "id": "HSPT-L4-048",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which option correctly spells the word meaning “an event or instance”?",
+      "choices": {
+        "A": "occurence",
+        "B": "occurrance",
+        "C": "ocurrence",
+        "D": "occurrence"
+      },
+      "correct": "D",
+      "correctAnswer": "occurrence",
+      "explanation": "Occurrence is spelled with double c and double r."
+    },
+    {
+      "id": "HSPT-L4-049",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Which option correctly capitalizes a month, family title, name, and region?",
+      "choices": {
+        "A": "In july, aunt Rosa will visit the Pacific northwest.",
+        "B": "In July, Aunt Rosa will visit the Pacific Northwest.",
+        "C": "In July, Aunt rosa will visit the pacific Northwest.",
+        "D": "In july, Aunt Rosa will visit the Pacific Northwest."
+      },
+      "correct": "B",
+      "correctAnswer": "In July, Aunt Rosa will visit the Pacific Northwest.",
+      "explanation": "The month, family title used as a name, personal name, and region are capitalized."
+    },
+    {
+      "id": "HSPT-L4-050",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Capitalization",
+      "prompt": "Select the sentence with correct capitalization.",
+      "choices": {
+        "A": "professor Malik teaches History at Westlake college.",
+        "B": "Professor Malik teaches History at westlake College.",
+        "C": "Professor Malik teaches history at Westlake College.",
+        "D": "Professor malik teaches history at Westlake College."
+      },
+      "correct": "C",
+      "correctAnswer": "Professor Malik teaches history at Westlake College.",
+      "explanation": "The title before a name and the official college name are capitalized; history is not."
+    },
+    {
+      "id": "HSPT-L4-051",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Which option correctly spells the word meaning “needed or required”?",
+      "choices": {
+        "A": "necessary",
+        "B": "neccessary",
+        "C": "necessery",
+        "D": "nesessary"
+      },
+      "correct": "A",
+      "correctAnswer": "necessary",
+      "explanation": "Necessary is spelled n-e-c-e-s-s-a-r-y."
+    },
+    {
+      "id": "HSPT-L4-052",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Spelling",
+      "prompt": "Find the sentence in which the spelling error appears.",
+      "choices": {
+        "A": "Her explanation was reasonable.",
+        "B": "The equipment arrived separately.",
+        "C": "We admired the unusual architecture.",
+        "D": "The sudden noise caused a brief interuption."
+      },
+      "correct": "D",
+      "correctAnswer": "The sudden noise caused a brief interuption.",
+      "explanation": "Interruption requires a double r: interruption."
+    },
+    {
+      "id": "HSPT-L4-053",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which sentence uses the pronoun correctly?",
+      "choices": {
+        "A": "The librarian gave Lena and I the forms.",
+        "B": "The librarian gave Lena and me the forms.",
+        "C": "The librarian gave she and me the forms.",
+        "D": "The librarian gave Lena and myself the forms."
+      },
+      "correct": "B",
+      "correctAnswer": "The librarian gave Lena and me the forms.",
+      "explanation": "Me is the correct object pronoun after the verb gave."
+    },
+    {
+      "id": "HSPT-L4-054",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Select the sentence whose opening modifier clearly describes its subject.",
+      "choices": {
+        "A": "Walking toward the station, the first train arrived.",
+        "B": "Covered in frost, Mia admired the window.",
+        "C": "Walking toward the station, I saw the first train arrive.",
+        "D": "After reading the book, the movie seemed confusing."
+      },
+      "correct": "C",
+      "correctAnswer": "Walking toward the station, I saw the first train arrive.",
+      "explanation": "The introductory modifier logically describes the subject I."
+    },
+    {
+      "id": "HSPT-L4-055",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Grammar",
+      "prompt": "Which sentence correctly uses verb tense?",
+      "choices": {
+        "A": "By the time the bus arrived, we had waited for thirty minutes.",
+        "B": "By the time the bus arrived, we wait for thirty minutes.",
+        "C": "By the time the bus arrives, we had waited for thirty minutes yesterday.",
+        "D": "By the time the bus arrived, we have wait for thirty minutes."
+      },
+      "correct": "A",
+      "correctAnswer": "By the time the bus arrived, we had waited for thirty minutes.",
+      "explanation": "Past perfect had waited correctly identifies the action preceding the bus’s arrival."
+    },
+    {
+      "id": "HSPT-L4-056",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which word correctly completes the sentence? The speaker tried to ____ the importance of daily practice.",
+      "choices": {
+        "A": "sympathize",
+        "B": "summarize",
+        "C": "advertise",
+        "D": "emphasize"
+      },
+      "correct": "D",
+      "correctAnswer": "emphasize",
+      "explanation": "Emphasize means to give special importance or attention to something."
+    },
+    {
+      "id": "HSPT-L4-057",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which sentence uses who or whom correctly?",
+      "choices": {
+        "A": "Who did the committee select as its representative?",
+        "B": "Whom did the committee select as its representative?",
+        "C": "Whom will present the report tomorrow?",
+        "D": "The student whom won will present the report."
+      },
+      "correct": "B",
+      "correctAnswer": "Whom did the committee select as its representative?",
+      "explanation": "Whom is correct because it serves as the object of select."
+    },
+    {
+      "id": "HSPT-L4-058",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Usage",
+      "prompt": "Which sentence uses imply and infer correctly?",
+      "choices": {
+        "A": "The clues infer a delay, and readers may imply its cause.",
+        "B": "The clues imply a delay, and readers may imply its cause.",
+        "C": "The clues imply a delay, and readers may infer its cause.",
+        "D": "The clues infer a delay, and readers may infer its cause."
+      },
+      "correct": "C",
+      "correctAnswer": "The clues imply a delay, and readers may infer its cause.",
+      "explanation": "A source implies, while a listener or reader infers from evidence."
+    },
+    {
+      "id": "HSPT-L4-059",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which sentence should be removed because it distracts from the passage’s focus?",
+      "choices": {
+        "A": "Sentence 4",
+        "B": "Sentence 2",
+        "C": "Sentence 6",
+        "D": "Sentence 8"
+      },
+      "correct": "A",
+      "correctAnswer": "Sentence 4",
+      "explanation": "Sentence 4 gives an undeveloped personal preference unrelated to the mapping process.",
+      "stimulusId": "HSPT-L4-S04",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "The Courtyard Map",
+      "stimulusText": "(1) Our class decided to create a map of the school courtyard for new students. (2) First, pairs measured the walkways and recorded the locations of benches, doors, and garden beds. (3) Another group designed simple symbols for each feature. (4) I like maps with bright colors. (5) When we combined our work, however, several measurements did not match. (6) We returned to the courtyard, checked the disputed distances, and corrected two recording errors. (7) Finally, we added a key and tested the map by asking another class to follow it. (8) Their successful trip from the library door to the garden confirmed that our revised map was clear."
+    },
+    {
+      "id": "HSPT-L4-060",
+      "itemType": "mcq_single",
+      "section": "Language",
+      "category": "Language",
+      "skill": "Composition",
+      "prompt": "Which transition best replaces however in sentence 5?",
+      "choices": {
+        "A": "Instead",
+        "B": "For example",
+        "C": "Nevertheless",
+        "D": "When"
+      },
+      "correct": "D",
+      "correctAnswer": "When",
+      "explanation": "When correctly introduces the time at which the mismatched measurements became apparent.",
+      "stimulusId": "HSPT-L4-S04",
+      "stimulusType": "Editing Passage",
+      "stimulusTitle": "The Courtyard Map",
+      "stimulusText": "(1) Our class decided to create a map of the school courtyard for new students. (2) First, pairs measured the walkways and recorded the locations of benches, doors, and garden beds. (3) Another group designed simple symbols for each feature. (4) I like maps with bright colors. (5) When we combined our work, however, several measurements did not match. (6) We returned to the courtyard, checked the disputed distances, and corrected two recording errors. (7) Finally, we added a key and tested the map by asking another class to follow it. (8) Their successful trip from the library door to the garden confirmed that our revised map was clear."
+    }
+  ]
+}

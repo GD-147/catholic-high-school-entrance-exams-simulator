@@ -235,6 +235,15 @@ def normalize_lines(text: str) -> list[str]:
 
     for raw in raw_lines:
         line = clean_text(raw)
+
+        # Accept occasional "ID: " prefixes generated before item IDs.
+        line = re.sub(
+            r"^ID:\s*(?=(?:HSPT|TACHS|COOP)-)",
+            "",
+            line,
+            flags=re.IGNORECASE,
+        )
+
         if line:
             lines.append(line)
 
@@ -380,6 +389,29 @@ def collect_field(
     return clean_text("\n".join(values)), index
 
 
+
+def is_structural_heading(value: str) -> bool:
+    value = clean_text(value)
+
+    if re.match(
+        r"^SECTION\s+\d+\s*[-–—:]\s*.+$",
+        value,
+        flags=re.IGNORECASE,
+    ):
+        return True
+
+    if (
+        value == value.upper()
+        and re.match(
+            r"^[A-Z0-9][A-Z0-9 &/()'’.,\-]*\s+ANSWERS$",
+            value,
+        )
+    ):
+        return True
+
+    return False
+
+
 def parse_question(lines: list[str], start: int) -> tuple[Question, int]:
     qid = lines[start]
     index = start + 1
@@ -438,6 +470,9 @@ def parse_question(lines: list[str], start: int) -> tuple[Question, int]:
             while index < len(lines):
                 next_line = lines[index]
 
+                if is_structural_heading(next_line):
+                    break
+
                 if re.match(r"^[A-D]\)", next_line):
                     break
 
@@ -490,6 +525,9 @@ def merge_wrapped_answer_lines(lines: list[str]) -> list[str]:
     current = ""
 
     for line in lines:
+        if is_structural_heading(line):
+            continue
+
         if re.match(
             r"^[A-Z]+-(?:[A-Z]+)?\d+-\d{3}\s*[—–-]\s*Correct:",
             line,
@@ -659,7 +697,11 @@ def expected_ids(family: str, exam_no: int, section: dict[str, Any]) -> list[str
 
 
 def normalize_option_text(value: str) -> str:
-    return re.sub(r"\W+", "", value.casefold())
+    return re.sub(
+        r"\s+",
+        " ",
+        clean_text(value),
+    ).strip()
 
 
 def validate_exam(
@@ -972,7 +1014,7 @@ def process_exam(
         parts,
     )
 
-    warnings = parse_warnings + override_notes + warnings
+    warnings = parse_warnings + warnings
 
     report_lines = [
         f"Family: {family.upper()}",

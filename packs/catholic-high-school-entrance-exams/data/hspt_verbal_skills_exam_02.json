@@ -1,0 +1,1029 @@
+{
+  "title": "HSPT Verbal Skills Practice Test 02",
+  "examFamily": "hspt",
+  "examNumber": 2,
+  "section": "Verbal Skills",
+  "questionCount": 60,
+  "questions": [
+    {
+      "id": "HSPT-V2-001",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to prudent?",
+      "choices": {
+        "A": "noisy",
+        "B": "sensible",
+        "C": "generous",
+        "D": "speedy"
+      },
+      "correct": "B",
+      "correctAnswer": "sensible",
+      "explanation": "Prudent means showing careful judgment, so sensible is the closest synonym."
+    },
+    {
+      "id": "HSPT-V2-002",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to commence?",
+      "choices": {
+        "A": "begin",
+        "B": "discuss",
+        "C": "cancel",
+        "D": "delay"
+      },
+      "correct": "A",
+      "correctAnswer": "begin",
+      "explanation": "To commence an activity is to begin it."
+    },
+    {
+      "id": "HSPT-V2-003",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to evident?",
+      "choices": {
+        "A": "doubtful",
+        "B": "hidden",
+        "C": "apparent",
+        "D": "distant"
+      },
+      "correct": "C",
+      "correctAnswer": "apparent",
+      "explanation": "Evident means clearly seen or understood, which is apparent."
+    },
+    {
+      "id": "HSPT-V2-004",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to optimistic?",
+      "choices": {
+        "A": "patient",
+        "B": "cheerful",
+        "C": "hopeful",
+        "D": "pessimistic"
+      },
+      "correct": "D",
+      "correctAnswer": "pessimistic",
+      "explanation": "Optimistic means expecting favorable results, while pessimistic means expecting unfavorable results."
+    },
+    {
+      "id": "HSPT-V2-005",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to permit?",
+      "choices": {
+        "A": "forbid",
+        "B": "request",
+        "C": "explain",
+        "D": "enter"
+      },
+      "correct": "A",
+      "correctAnswer": "forbid",
+      "explanation": "Permit means allow, while forbid means refuse to allow."
+    },
+    {
+      "id": "HSPT-V2-006",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to shallow?",
+      "choices": {
+        "A": "calm",
+        "B": "narrow",
+        "C": "deep",
+        "D": "clear"
+      },
+      "correct": "C",
+      "correctAnswer": "deep",
+      "explanation": "Shallow describes little depth, and deep is its direct opposite."
+    },
+    {
+      "id": "HSPT-V2-007",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Keyboard is to type as telescope is to ____.",
+      "choices": {
+        "A": "observe",
+        "B": "travel",
+        "C": "calculate",
+        "D": "record"
+      },
+      "correct": "A",
+      "correctAnswer": "observe",
+      "explanation": "A keyboard is used to type, while a telescope is used to observe."
+    },
+    {
+      "id": "HSPT-V2-008",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Chef is to restaurant as judge is to ____.",
+      "choices": {
+        "A": "law",
+        "B": "courtroom",
+        "C": "decision",
+        "D": "jury"
+      },
+      "correct": "B",
+      "correctAnswer": "courtroom",
+      "explanation": "A chef works in a restaurant, just as a judge works in a courtroom."
+    },
+    {
+      "id": "HSPT-V2-009",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Flour is to wheat as paper is to ____.",
+      "choices": {
+        "A": "book",
+        "B": "sheet",
+        "C": "pen",
+        "D": "wood"
+      },
+      "correct": "D",
+      "correctAnswer": "wood",
+      "explanation": "Flour is produced from wheat, while paper is produced from wood."
+    },
+    {
+      "id": "HSPT-V2-010",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which choice is the only word outside the group?",
+      "choices": {
+        "A": "gallon",
+        "B": "liter",
+        "C": "kilogram",
+        "D": "quart"
+      },
+      "correct": "C",
+      "correctAnswer": "kilogram",
+      "explanation": "Gallon, liter, and quart measure capacity; kilogram measures mass."
+    },
+    {
+      "id": "HSPT-V2-011",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which word belongs with honest, truthful, and sincere?",
+      "choices": {
+        "A": "doubtful",
+        "B": "candid",
+        "C": "playful",
+        "D": "secretive"
+      },
+      "correct": "B",
+      "correctAnswer": "candid",
+      "explanation": "Honest, truthful, sincere, and candid all describe openness and truthfulness."
+    },
+    {
+      "id": "HSPT-V2-012",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "January, April, and October share which objective characteristic?",
+      "choices": {
+        "A": "They are weekdays.",
+        "B": "They are seasons.",
+        "C": "They are months.",
+        "D": "They are holidays."
+      },
+      "correct": "C",
+      "correctAnswer": "They are months.",
+      "explanation": "January, April, and October are all months of the year."
+    },
+    {
+      "id": "HSPT-V2-013",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A code uses exactly three symbols. The star appears before the circle. The triangle appears after the circle. Which symbol is last?",
+      "choices": {
+        "A": "circle",
+        "B": "star",
+        "C": "The position is unknown.",
+        "D": "triangle"
+      },
+      "correct": "D",
+      "correctAnswer": "triangle",
+      "explanation": "Star comes before circle, and triangle follows circle, so triangle must be last."
+    },
+    {
+      "id": "HSPT-V2-014",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Every copper key opens cabinet P. Key R does not open cabinet P. Which conclusion must be true?",
+      "choices": {
+        "A": "Key R is not copper.",
+        "B": "Cabinet P is locked.",
+        "C": "No key opens cabinet P.",
+        "D": "Key R opens another cabinet."
+      },
+      "correct": "A",
+      "correctAnswer": "Key R is not copper.",
+      "explanation": "Every copper key opens P; since R does not, it cannot be copper."
+    },
+    {
+      "id": "HSPT-V2-015",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A meeting is scheduled for Tuesday, Thursday, or Saturday. It cannot occur Tuesday if Mira attends, and it can occur Saturday only if Leo attends. Mira attends, but Leo does not. When must the meeting occur?",
+      "choices": {
+        "A": "Saturday",
+        "B": "Thursday",
+        "C": "Tuesday",
+        "D": "It cannot occur."
+      },
+      "correct": "B",
+      "correctAnswer": "Thursday",
+      "explanation": "Mira rules out Tuesday and Leo's absence rules out Saturday, leaving Thursday."
+    },
+    {
+      "id": "HSPT-V2-016",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to meticulous?",
+      "choices": {
+        "A": "rapid",
+        "B": "careful",
+        "C": "ordinary",
+        "D": "cheerful"
+      },
+      "correct": "B",
+      "correctAnswer": "careful",
+      "explanation": "Meticulous means extremely careful about details."
+    },
+    {
+      "id": "HSPT-V2-017",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to adjacent?",
+      "choices": {
+        "A": "hidden",
+        "B": "unequal",
+        "C": "neighboring",
+        "D": "distant"
+      },
+      "correct": "C",
+      "correctAnswer": "neighboring",
+      "explanation": "Adjacent things are next to or neighboring each other."
+    },
+    {
+      "id": "HSPT-V2-018",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to compensate?",
+      "choices": {
+        "A": "predict",
+        "B": "combine",
+        "C": "observe",
+        "D": "repay"
+      },
+      "correct": "D",
+      "correctAnswer": "repay",
+      "explanation": "To compensate is to repay someone for work or loss."
+    },
+    {
+      "id": "HSPT-V2-019",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to hostile?",
+      "choices": {
+        "A": "friendly",
+        "B": "silent",
+        "C": "crowded",
+        "D": "powerful"
+      },
+      "correct": "A",
+      "correctAnswer": "friendly",
+      "explanation": "Hostile means unfriendly; friendly is its opposite."
+    },
+    {
+      "id": "HSPT-V2-020",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to maximum?",
+      "choices": {
+        "A": "average",
+        "B": "minimum",
+        "C": "total",
+        "D": "limit"
+      },
+      "correct": "B",
+      "correctAnswer": "minimum",
+      "explanation": "Maximum is the greatest amount; minimum is the least."
+    },
+    {
+      "id": "HSPT-V2-021",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to ascend?",
+      "choices": {
+        "A": "arrive",
+        "B": "continue",
+        "C": "descend",
+        "D": "wander"
+      },
+      "correct": "C",
+      "correctAnswer": "descend",
+      "explanation": "Ascend means move upward, while descend means move downward."
+    },
+    {
+      "id": "HSPT-V2-022",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Nest is to bird as den is to ____.",
+      "choices": {
+        "A": "forest",
+        "B": "cave",
+        "C": "cub",
+        "D": "bear"
+      },
+      "correct": "D",
+      "correctAnswer": "bear",
+      "explanation": "A nest shelters a bird, while a den shelters a bear."
+    },
+    {
+      "id": "HSPT-V2-023",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Edit is to manuscript as prune is to ____.",
+      "choices": {
+        "A": "hedge",
+        "B": "shears",
+        "C": "branch",
+        "D": "garden"
+      },
+      "correct": "A",
+      "correctAnswer": "hedge",
+      "explanation": "Editing improves a manuscript; pruning improves a hedge."
+    },
+    {
+      "id": "HSPT-V2-024",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Minute is to hour as centimeter is to ____.",
+      "choices": {
+        "A": "distance",
+        "B": "meter",
+        "C": "ruler",
+        "D": "millimeter"
+      },
+      "correct": "B",
+      "correctAnswer": "meter",
+      "explanation": "A minute is a smaller unit within an hour, as a centimeter is within a meter."
+    },
+    {
+      "id": "HSPT-V2-025",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which word differs in category from the other three?",
+      "choices": {
+        "A": "clear",
+        "B": "transparent",
+        "C": "opaque",
+        "D": "translucent"
+      },
+      "correct": "C",
+      "correctAnswer": "opaque",
+      "explanation": "The other words describe materials that transmit at least some light."
+    },
+    {
+      "id": "HSPT-V2-026",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which word belongs with canoe, ferry, and sailboat?",
+      "choices": {
+        "A": "wagon",
+        "B": "subway",
+        "C": "glider",
+        "D": "barge"
+      },
+      "correct": "D",
+      "correctAnswer": "barge",
+      "explanation": "All four are types of watercraft."
+    },
+    {
+      "id": "HSPT-V2-027",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Copper, gold, and aluminum share which category?",
+      "choices": {
+        "A": "metals",
+        "B": "gases",
+        "C": "fabrics",
+        "D": "stones"
+      },
+      "correct": "A",
+      "correctAnswer": "metals",
+      "explanation": "Copper, gold, and aluminum are metals."
+    },
+    {
+      "id": "HSPT-V2-028",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Exactly one of Arun and Bella leads. If Bella leads, Chen records notes. Chen is not recording notes. Who must lead?",
+      "choices": {
+        "A": "Bella",
+        "B": "Arun",
+        "C": "Chen",
+        "D": "The leader cannot be determined."
+      },
+      "correct": "B",
+      "correctAnswer": "Arun",
+      "explanation": "Bella cannot lead because that would require Chen to record, so Arun leads."
+    },
+    {
+      "id": "HSPT-V2-029",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "All blue cards are numbered. No numbered card is blank. Which conclusion must be true?",
+      "choices": {
+        "A": "Every numbered card is blue.",
+        "B": "Some blank cards are blue.",
+        "C": "No blue card is blank.",
+        "D": "No card is numbered."
+      },
+      "correct": "C",
+      "correctAnswer": "No blue card is blank.",
+      "explanation": "Blue cards are numbered, and numbered cards cannot be blank."
+    },
+    {
+      "id": "HSPT-V2-030",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Four books W, X, Y, and Z are stacked. W is above X. Y is below X. Z is above W. Which book is second from the top?",
+      "choices": {
+        "A": "X",
+        "B": "Y",
+        "C": "Z",
+        "D": "W"
+      },
+      "correct": "D",
+      "correctAnswer": "W",
+      "explanation": "The forced order is Z, W, X, Y."
+    },
+    {
+      "id": "HSPT-V2-031",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to vivid?",
+      "choices": {
+        "A": "striking",
+        "B": "fragile",
+        "C": "silent",
+        "D": "formal"
+      },
+      "correct": "A",
+      "correctAnswer": "striking",
+      "explanation": "Vivid means strikingly clear, bright, or detailed."
+    },
+    {
+      "id": "HSPT-V2-032",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to scarce?",
+      "choices": {
+        "A": "polished",
+        "B": "useful",
+        "C": "limited",
+        "D": "nearby"
+      },
+      "correct": "C",
+      "correctAnswer": "limited",
+      "explanation": "Scarce means available only in a limited amount."
+    },
+    {
+      "id": "HSPT-V2-033",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to allocate?",
+      "choices": {
+        "A": "divide",
+        "B": "delay",
+        "C": "replace",
+        "D": "assign"
+      },
+      "correct": "D",
+      "correctAnswer": "assign",
+      "explanation": "To allocate is to assign something for a particular purpose."
+    },
+    {
+      "id": "HSPT-V2-034",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to vertical?",
+      "choices": {
+        "A": "narrow",
+        "B": "horizontal",
+        "C": "steady",
+        "D": "plain"
+      },
+      "correct": "B",
+      "correctAnswer": "horizontal",
+      "explanation": "Vertical runs up and down; horizontal runs from side to side."
+    },
+    {
+      "id": "HSPT-V2-035",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to deliberate?",
+      "choices": {
+        "A": "protect",
+        "B": "gradual",
+        "C": "measured",
+        "D": "accidental"
+      },
+      "correct": "D",
+      "correctAnswer": "accidental",
+      "explanation": "Deliberate means intentional; accidental means unintentional."
+    },
+    {
+      "id": "HSPT-V2-036",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to compulsory?",
+      "choices": {
+        "A": "optional",
+        "B": "recent",
+        "C": "uncertain",
+        "D": "ordinary"
+      },
+      "correct": "A",
+      "correctAnswer": "optional",
+      "explanation": "Compulsory means required; optional means left to choice."
+    },
+    {
+      "id": "HSPT-V2-037",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Battery is to flashlight as fuel is to ____.",
+      "choices": {
+        "A": "vehicle",
+        "B": "motion",
+        "C": "engine",
+        "D": "piston"
+      },
+      "correct": "C",
+      "correctAnswer": "engine",
+      "explanation": "A battery supplies a flashlight with energy; fuel supplies an engine with energy."
+    },
+    {
+      "id": "HSPT-V2-038",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Bud is to flower as egg is to ____.",
+      "choices": {
+        "A": "nest",
+        "B": "butterfly",
+        "C": "shell",
+        "D": "wing"
+      },
+      "correct": "B",
+      "correctAnswer": "butterfly",
+      "explanation": "A bud develops into a flower, as an egg develops into a butterfly."
+    },
+    {
+      "id": "HSPT-V2-039",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Thermometer is to temperature as compass is to ____.",
+      "choices": {
+        "A": "direction",
+        "B": "distance",
+        "C": "weather",
+        "D": "speed"
+      },
+      "correct": "A",
+      "correctAnswer": "direction",
+      "explanation": "A thermometer indicates temperature; a compass indicates direction."
+    },
+    {
+      "id": "HSPT-V2-040",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which term does not belong with the other three?",
+      "choices": {
+        "A": "peninsula",
+        "B": "island",
+        "C": "harbor",
+        "D": "isthmus"
+      },
+      "correct": "C",
+      "correctAnswer": "harbor",
+      "explanation": "The other choices are landforms; a harbor is a sheltered body of water."
+    },
+    {
+      "id": "HSPT-V2-041",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which word belongs with soprano, alto, and tenor?",
+      "choices": {
+        "A": "chorus",
+        "B": "melody",
+        "C": "rhythm",
+        "D": "bass"
+      },
+      "correct": "D",
+      "correctAnswer": "bass",
+      "explanation": "Soprano, alto, tenor, and bass are vocal ranges."
+    },
+    {
+      "id": "HSPT-V2-042",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Rectangle, trapezoid, and kite share which category?",
+      "choices": {
+        "A": "triangles",
+        "B": "solids",
+        "C": "quadrilaterals",
+        "D": "circles"
+      },
+      "correct": "C",
+      "correctAnswer": "quadrilaterals",
+      "explanation": "Each figure is a polygon with four sides."
+    },
+    {
+      "id": "HSPT-V2-043",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Mira, Owen, and Paz each choose one different workshop: art, coding, or drama. Mira does not choose art. Owen chooses coding. Which workshop must Paz choose if Mira chooses drama?",
+      "choices": {
+        "A": "art",
+        "B": "coding",
+        "C": "drama",
+        "D": "The answer cannot be determined."
+      },
+      "correct": "A",
+      "correctAnswer": "art",
+      "explanation": "Coding is taken by Owen and drama by Mira, leaving art for Paz."
+    },
+    {
+      "id": "HSPT-V2-044",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "If the alarm is armed, opening the door triggers a bell. The door opens, but no bell sounds. Which conclusion follows?",
+      "choices": {
+        "A": "The door is locked.",
+        "B": "The alarm is not armed.",
+        "C": "The bell is louder outside.",
+        "D": "Someone closed the door."
+      },
+      "correct": "B",
+      "correctAnswer": "The alarm is not armed.",
+      "explanation": "The stated rule means an armed alarm and an opened door would produce a bell."
+    },
+    {
+      "id": "HSPT-V2-045",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Five runners finish with J before K, K before L, and M before J. N finishes after L. Who must finish first?",
+      "choices": {
+        "A": "J",
+        "B": "K",
+        "C": "N",
+        "D": "M"
+      },
+      "correct": "D",
+      "correctAnswer": "M",
+      "explanation": "The constraints force M before J before K before L before N."
+    },
+    {
+      "id": "HSPT-V2-046",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to impartial?",
+      "choices": {
+        "A": "uncertain",
+        "B": "unbiased",
+        "C": "impatient",
+        "D": "unprepared"
+      },
+      "correct": "B",
+      "correctAnswer": "unbiased",
+      "explanation": "Impartial means fair and not favoring one side."
+    },
+    {
+      "id": "HSPT-V2-047",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to abundant?",
+      "choices": {
+        "A": "colorful",
+        "B": "distant",
+        "C": "plentiful",
+        "D": "careless"
+      },
+      "correct": "C",
+      "correctAnswer": "plentiful",
+      "explanation": "Abundant means existing in a plentiful amount."
+    },
+    {
+      "id": "HSPT-V2-048",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to inevitable?",
+      "choices": {
+        "A": "unavoidable",
+        "B": "easy to change",
+        "C": "likely to improve",
+        "D": "ready to depart"
+      },
+      "correct": "A",
+      "correctAnswer": "unavoidable",
+      "explanation": "Inevitable describes something certain to happen and therefore unavoidable."
+    },
+    {
+      "id": "HSPT-V2-049",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to ancient?",
+      "choices": {
+        "A": "smooth",
+        "B": "fragile",
+        "C": "distant",
+        "D": "modern"
+      },
+      "correct": "D",
+      "correctAnswer": "modern",
+      "explanation": "Ancient means very old; modern means belonging to recent times."
+    },
+    {
+      "id": "HSPT-V2-050",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to unanimous?",
+      "choices": {
+        "A": "formal",
+        "B": "accurate",
+        "C": "divided",
+        "D": "public"
+      },
+      "correct": "C",
+      "correctAnswer": "divided",
+      "explanation": "A unanimous group agrees completely; a divided group does not."
+    },
+    {
+      "id": "HSPT-V2-051",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to include?",
+      "choices": {
+        "A": "arrange",
+        "B": "exclude",
+        "C": "measure",
+        "D": "protect"
+      },
+      "correct": "B",
+      "correctAnswer": "exclude",
+      "explanation": "Include means contain as part of a whole; exclude means leave out."
+    },
+    {
+      "id": "HSPT-V2-052",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Itinerary is to journey as outline is to ____.",
+      "choices": {
+        "A": "speech",
+        "B": "audience",
+        "C": "pencil",
+        "D": "stage"
+      },
+      "correct": "A",
+      "correctAnswer": "speech",
+      "explanation": "An itinerary plans a journey; an outline plans a speech."
+    },
+    {
+      "id": "HSPT-V2-053",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Odometer is to distance as scale is to ____.",
+      "choices": {
+        "A": "height",
+        "B": "balance",
+        "C": "speed",
+        "D": "weight"
+      },
+      "correct": "D",
+      "correctAnswer": "weight",
+      "explanation": "An odometer measures distance, while a scale measures weight."
+    },
+    {
+      "id": "HSPT-V2-054",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Roof is to house as lid is to ____.",
+      "choices": {
+        "A": "shelf",
+        "B": "handle",
+        "C": "jar",
+        "D": "label"
+      },
+      "correct": "C",
+      "correctAnswer": "jar",
+      "explanation": "A roof covers a house; a lid covers a jar."
+    },
+    {
+      "id": "HSPT-V2-055",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which word does not belong with the other three?",
+      "choices": {
+        "A": "violin",
+        "B": "lantern",
+        "C": "trumpet",
+        "D": "flute"
+      },
+      "correct": "B",
+      "correctAnswer": "lantern",
+      "explanation": "The other choices are musical instruments; a lantern provides light."
+    },
+    {
+      "id": "HSPT-V2-056",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which word belongs with copper, iron, and silver?",
+      "choices": {
+        "A": "tin",
+        "B": "glass",
+        "C": "clay",
+        "D": "rubber"
+      },
+      "correct": "A",
+      "correctAnswer": "tin",
+      "explanation": "Copper, iron, silver, and tin are metals."
+    },
+    {
+      "id": "HSPT-V2-057",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which pair has the same relationship as calf and cow?",
+      "choices": {
+        "A": "cub and den",
+        "B": "feather and bird",
+        "C": "stable and horse",
+        "D": "foal and horse"
+      },
+      "correct": "D",
+      "correctAnswer": "foal and horse",
+      "explanation": "A calf is the young of a cow; a foal is the young of a horse."
+    },
+    {
+      "id": "HSPT-V2-058",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "All members of the robotics club attend the safety meeting. Inez is a robotics club member. What must be true?",
+      "choices": {
+        "A": "Inez leads the meeting.",
+        "B": "Only club members attend.",
+        "C": "Inez attends the safety meeting.",
+        "D": "Inez built every robot."
+      },
+      "correct": "C",
+      "correctAnswer": "Inez attends the safety meeting.",
+      "explanation": "The general rule applies to every club member, including Inez."
+    },
+    {
+      "id": "HSPT-V2-059",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Four books—J, K, L, and M—stand on a shelf. J is left of K. M is right of K. L is left of J. Which book is farthest left?",
+      "choices": {
+        "A": "J",
+        "B": "K",
+        "C": "M",
+        "D": "L"
+      },
+      "correct": "D",
+      "correctAnswer": "L",
+      "explanation": "The constraints produce the order L, J, K, M."
+    },
+    {
+      "id": "HSPT-V2-060",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "No glass objects are flexible. Some rulers are flexible. Which conclusion follows?",
+      "choices": {
+        "A": "All rulers are glass.",
+        "B": "Some rulers are not glass.",
+        "C": "No rulers are glass.",
+        "D": "All flexible objects are rulers."
+      },
+      "correct": "B",
+      "correctAnswer": "Some rulers are not glass.",
+      "explanation": "Any flexible ruler cannot be glass, so at least some rulers are not glass."
+    }
+  ]
+}

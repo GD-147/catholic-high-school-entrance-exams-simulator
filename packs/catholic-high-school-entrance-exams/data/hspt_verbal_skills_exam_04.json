@@ -1,0 +1,1029 @@
+{
+  "title": "HSPT Verbal Skills Practice Test 04",
+  "examFamily": "hspt",
+  "examNumber": 4,
+  "section": "Verbal Skills",
+  "questionCount": 60,
+  "questions": [
+    {
+      "id": "HSPT-V4-001",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Choose the best response. Which word is closest in meaning to reluctant?",
+      "choices": {
+        "A": "unwilling",
+        "B": "cheerful",
+        "C": "exact",
+        "D": "temporary"
+      },
+      "correct": "A",
+      "correctAnswer": "unwilling",
+      "explanation": "Reluctant means hesitant or unwilling to act."
+    },
+    {
+      "id": "HSPT-V4-002",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Choose the best response. Which word is closest in meaning to preserve?",
+      "choices": {
+        "A": "scatter",
+        "B": "protect",
+        "C": "predict",
+        "D": "exchange"
+      },
+      "correct": "B",
+      "correctAnswer": "protect",
+      "explanation": "To preserve something is to protect it from harm or loss."
+    },
+    {
+      "id": "HSPT-V4-003",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Choose the best response. Which word is closest in meaning to evident?",
+      "choices": {
+        "A": "flexible",
+        "B": "distant",
+        "C": "obvious",
+        "D": "complete"
+      },
+      "correct": "C",
+      "correctAnswer": "obvious",
+      "explanation": "Evident means clear or obvious."
+    },
+    {
+      "id": "HSPT-V4-004",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Choose the best response. Which word is most nearly opposite in meaning to scarce?",
+      "choices": {
+        "A": "uneven",
+        "B": "costly",
+        "C": "useful",
+        "D": "plentiful"
+      },
+      "correct": "D",
+      "correctAnswer": "plentiful",
+      "explanation": "Scarce means limited in supply; plentiful means abundant."
+    },
+    {
+      "id": "HSPT-V4-005",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Choose the best response. Which word is most nearly opposite in meaning to rigid?",
+      "choices": {
+        "A": "flexible",
+        "B": "narrow",
+        "C": "solid",
+        "D": "polished"
+      },
+      "correct": "A",
+      "correctAnswer": "flexible",
+      "explanation": "Rigid means stiff or unyielding; flexible means able to bend or adapt."
+    },
+    {
+      "id": "HSPT-V4-006",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Choose the best response. Which word is most nearly opposite in meaning to conceal?",
+      "choices": {
+        "A": "collect",
+        "B": "reveal",
+        "C": "repair",
+        "D": "observe"
+      },
+      "correct": "B",
+      "correctAnswer": "reveal",
+      "explanation": "To conceal is to hide; to reveal is to make known or visible."
+    },
+    {
+      "id": "HSPT-V4-007",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Choose the best response. Blueprint is to building as recipe is to ____.",
+      "choices": {
+        "A": "kitchen",
+        "B": "ingredient",
+        "C": "meal",
+        "D": "chef"
+      },
+      "correct": "C",
+      "correctAnswer": "meal",
+      "explanation": "A blueprint provides a plan for a building; a recipe provides a plan for a meal."
+    },
+    {
+      "id": "HSPT-V4-008",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Choose the best response. Wool is to sheep as silk is to ____.",
+      "choices": {
+        "A": "thread",
+        "B": "moth",
+        "C": "fabric",
+        "D": "silkworm"
+      },
+      "correct": "D",
+      "correctAnswer": "silkworm",
+      "explanation": "Wool comes from sheep; silk is produced by silkworms."
+    },
+    {
+      "id": "HSPT-V4-009",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Choose the best response. Evaporation is to liquid as melting is to ____.",
+      "choices": {
+        "A": "solid",
+        "B": "heat",
+        "C": "gas",
+        "D": "freezing"
+      },
+      "correct": "A",
+      "correctAnswer": "solid",
+      "explanation": "Evaporation changes a liquid; melting changes a solid."
+    },
+    {
+      "id": "HSPT-V4-010",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Choose the best response. Which word does not belong with the others?",
+      "choices": {
+        "A": "prairie",
+        "B": "harbor",
+        "C": "tundra",
+        "D": "desert"
+      },
+      "correct": "B",
+      "correctAnswer": "harbor",
+      "explanation": "Prairie, tundra, and desert are land biomes; a harbor is a sheltered body of water."
+    },
+    {
+      "id": "HSPT-V4-011",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Choose the best response. Which word belongs with sonnet, haiku, and limerick?",
+      "choices": {
+        "A": "canvas",
+        "B": "chapter",
+        "C": "ballad",
+        "D": "speech"
+      },
+      "correct": "C",
+      "correctAnswer": "ballad",
+      "explanation": "All four are recognized forms of poetry."
+    },
+    {
+      "id": "HSPT-V4-012",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Choose the best response. Which pair has the same relationship as kennel and dog?",
+      "choices": {
+        "A": "feather and bird",
+        "B": "saddle and horse",
+        "C": "field and farmer",
+        "D": "hive and bee"
+      },
+      "correct": "D",
+      "correctAnswer": "hive and bee",
+      "explanation": "A kennel houses a dog; a hive houses a bee colony."
+    },
+    {
+      "id": "HSPT-V4-013",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Choose the best response. All objects in cabinet P are metal. No metal object in the workshop is transparent. Which conclusion must be true?",
+      "choices": {
+        "A": "No object in cabinet P is transparent.",
+        "B": "Some transparent objects are in cabinet P.",
+        "C": "Every metal object is in cabinet P.",
+        "D": "Cabinet P itself is metal."
+      },
+      "correct": "A",
+      "correctAnswer": "No object in cabinet P is transparent.",
+      "explanation": "Because every cabinet-P object is metal and no workshop metal object is transparent, none of those objects is transparent."
+    },
+    {
+      "id": "HSPT-V4-014",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Choose the best response. Four exhibits—W, X, Y, and Z—open on consecutive days. X opens before W. Z opens immediately after W. Y opens before X. Which exhibit opens third?",
+      "choices": {
+        "A": "X",
+        "B": "W",
+        "C": "Y",
+        "D": "Z"
+      },
+      "correct": "B",
+      "correctAnswer": "W",
+      "explanation": "The only order satisfying all constraints is Y, X, W, Z."
+    },
+    {
+      "id": "HSPT-V4-015",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Choose the best response. A code is approved only if it contains a digit and ends with K. Code R contains a digit but does not end with K. What must be true?",
+      "choices": {
+        "A": "Code R begins with K.",
+        "B": "Every unapproved code lacks a digit.",
+        "C": "Code R is not approved.",
+        "D": "Code R contains exactly one digit."
+      },
+      "correct": "C",
+      "correctAnswer": "Code R is not approved.",
+      "explanation": "Ending with K is necessary for approval, so a code lacking that ending cannot be approved."
+    },
+    {
+      "id": "HSPT-V4-016",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to prudent?",
+      "choices": {
+        "A": "noisy",
+        "B": "wise",
+        "C": "hasty",
+        "D": "fragile"
+      },
+      "correct": "B",
+      "correctAnswer": "wise",
+      "explanation": "Prudent means showing careful, wise judgment."
+    },
+    {
+      "id": "HSPT-V4-017",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to diminish?",
+      "choices": {
+        "A": "decorate",
+        "B": "divide",
+        "C": "decrease",
+        "D": "discover"
+      },
+      "correct": "C",
+      "correctAnswer": "decrease",
+      "explanation": "To diminish is to become or make smaller."
+    },
+    {
+      "id": "HSPT-V4-018",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to verify?",
+      "choices": {
+        "A": "delay",
+        "B": "question",
+        "C": "replace",
+        "D": "confirm"
+      },
+      "correct": "D",
+      "correctAnswer": "confirm",
+      "explanation": "To verify something is to confirm that it is true or accurate."
+    },
+    {
+      "id": "HSPT-V4-019",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to intricate?",
+      "choices": {
+        "A": "simple",
+        "B": "valuable",
+        "C": "ancient",
+        "D": "colorful"
+      },
+      "correct": "A",
+      "correctAnswer": "simple",
+      "explanation": "Intricate means highly detailed or complicated; simple is the opposite."
+    },
+    {
+      "id": "HSPT-V4-020",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to permit?",
+      "choices": {
+        "A": "request",
+        "B": "forbid",
+        "C": "explain",
+        "D": "consider"
+      },
+      "correct": "B",
+      "correctAnswer": "forbid",
+      "explanation": "To permit is to allow; to forbid is to prohibit."
+    },
+    {
+      "id": "HSPT-V4-021",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to optimistic?",
+      "choices": {
+        "A": "curious",
+        "B": "patient",
+        "C": "pessimistic",
+        "D": "realistic"
+      },
+      "correct": "C",
+      "correctAnswer": "pessimistic",
+      "explanation": "Optimistic expects favorable results; pessimistic expects unfavorable ones."
+    },
+    {
+      "id": "HSPT-V4-022",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Compass is to direction as thermometer is to ____.",
+      "choices": {
+        "A": "weather",
+        "B": "mercury",
+        "C": "degree",
+        "D": "temperature"
+      },
+      "correct": "D",
+      "correctAnswer": "temperature",
+      "explanation": "A compass measures or indicates direction; a thermometer measures temperature."
+    },
+    {
+      "id": "HSPT-V4-023",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Sapling is to tree as calf is to ____.",
+      "choices": {
+        "A": "cow",
+        "B": "herd",
+        "C": "pasture",
+        "D": "hoof"
+      },
+      "correct": "A",
+      "correctAnswer": "cow",
+      "explanation": "A sapling is a young tree; a calf is a young cow."
+    },
+    {
+      "id": "HSPT-V4-024",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Applause is to performance as verdict is to ____.",
+      "choices": {
+        "A": "judge",
+        "B": "trial",
+        "C": "evidence",
+        "D": "courtroom"
+      },
+      "correct": "B",
+      "correctAnswer": "trial",
+      "explanation": "Applause follows and responds to a performance; a verdict concludes a trial."
+    },
+    {
+      "id": "HSPT-V4-025",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which word does not belong with the others?",
+      "choices": {
+        "A": "granite",
+        "B": "marble",
+        "C": "copper",
+        "D": "slate"
+      },
+      "correct": "C",
+      "correctAnswer": "copper",
+      "explanation": "Granite, marble, and slate are rocks; copper is a metal."
+    },
+    {
+      "id": "HSPT-V4-026",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which word belongs with orbit, rotate, and revolve?",
+      "choices": {
+        "A": "wander",
+        "B": "settle",
+        "C": "stretch",
+        "D": "spin"
+      },
+      "correct": "D",
+      "correctAnswer": "spin",
+      "explanation": "All four words describe circular motion."
+    },
+    {
+      "id": "HSPT-V4-027",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which pair has the same relationship as chapter and book?",
+      "choices": {
+        "A": "scene and play",
+        "B": "actor and stage",
+        "C": "cover and page",
+        "D": "pen and poem"
+      },
+      "correct": "A",
+      "correctAnswer": "scene and play",
+      "explanation": "A chapter is a division of a book; a scene is a division of a play."
+    },
+    {
+      "id": "HSPT-V4-028",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A workshop offers ceramics on Tuesday or Thursday, but not both. If ceramics is not offered Thursday, what must be true?",
+      "choices": {
+        "A": "Ceramics is canceled.",
+        "B": "Ceramics is offered Tuesday.",
+        "C": "Ceramics is offered both days.",
+        "D": "No workshop occurs Tuesday."
+      },
+      "correct": "B",
+      "correctAnswer": "Ceramics is offered Tuesday.",
+      "explanation": "Exactly one day is used, so excluding Thursday forces Tuesday."
+    },
+    {
+      "id": "HSPT-V4-029",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Jules, Kira, and Luis each choose a different task: painting, sorting, or measuring. Jules does not paint. Kira sorts. Luis does not measure. What does Jules do?",
+      "choices": {
+        "A": "painting",
+        "B": "sorting",
+        "C": "measuring",
+        "D": "It cannot be determined."
+      },
+      "correct": "C",
+      "correctAnswer": "measuring",
+      "explanation": "Kira sorts; Luis must paint, leaving measuring for Jules."
+    },
+    {
+      "id": "HSPT-V4-030",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "If the gate is locked, the warning light is on. The warning light is off. Which conclusion must be true?",
+      "choices": {
+        "A": "The gate is open to visitors.",
+        "B": "The light is broken.",
+        "C": "The gate was locked earlier.",
+        "D": "The gate is not locked."
+      },
+      "correct": "D",
+      "correctAnswer": "The gate is not locked.",
+      "explanation": "The contrapositive of the rule is: if the light is off, the gate is not locked."
+    },
+    {
+      "id": "HSPT-V4-031",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to reluctant?",
+      "choices": {
+        "A": "unwilling",
+        "B": "cheerful",
+        "C": "certain",
+        "D": "careless"
+      },
+      "correct": "A",
+      "correctAnswer": "unwilling",
+      "explanation": "Reluctant means hesitant or unwilling."
+    },
+    {
+      "id": "HSPT-V4-032",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to scarce?",
+      "choices": {
+        "A": "smooth",
+        "B": "ordinary",
+        "C": "limited",
+        "D": "nearby"
+      },
+      "correct": "C",
+      "correctAnswer": "limited",
+      "explanation": "Scarce means in short or limited supply."
+    },
+    {
+      "id": "HSPT-V4-033",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to elaborate?",
+      "choices": {
+        "A": "silent",
+        "B": "necessary",
+        "C": "hidden",
+        "D": "detailed"
+      },
+      "correct": "D",
+      "correctAnswer": "detailed",
+      "explanation": "Something elaborate contains many careful details."
+    },
+    {
+      "id": "HSPT-V4-034",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to rigid?",
+      "choices": {
+        "A": "flexible",
+        "B": "narrow",
+        "C": "heavy",
+        "D": "polished"
+      },
+      "correct": "A",
+      "correctAnswer": "flexible",
+      "explanation": "Rigid means stiff; flexible is its opposite."
+    },
+    {
+      "id": "HSPT-V4-035",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to conceal?",
+      "choices": {
+        "A": "protect",
+        "B": "reveal",
+        "C": "collect",
+        "D": "remember"
+      },
+      "correct": "B",
+      "correctAnswer": "reveal",
+      "explanation": "To conceal is to hide; to reveal is to make known."
+    },
+    {
+      "id": "HSPT-V4-036",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to abundant?",
+      "choices": {
+        "A": "useful",
+        "B": "orderly",
+        "C": "meager",
+        "D": "uneven"
+      },
+      "correct": "C",
+      "correctAnswer": "meager",
+      "explanation": "Abundant means plentiful; meager means insufficient or scant."
+    },
+    {
+      "id": "HSPT-V4-037",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Reservoir is to water as granary is to ____.",
+      "choices": {
+        "A": "field",
+        "B": "farmer",
+        "C": "bread",
+        "D": "grain"
+      },
+      "correct": "D",
+      "correctAnswer": "grain",
+      "explanation": "A reservoir stores water; a granary stores grain."
+    },
+    {
+      "id": "HSPT-V4-038",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Chisel is to sculptor as stethoscope is to ____.",
+      "choices": {
+        "A": "physician",
+        "B": "patient",
+        "C": "heartbeat",
+        "D": "hospital"
+      },
+      "correct": "A",
+      "correctAnswer": "physician",
+      "explanation": "A sculptor uses a chisel; a physician uses a stethoscope."
+    },
+    {
+      "id": "HSPT-V4-039",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Whisper is to speak as stroll is to ____.",
+      "choices": {
+        "A": "rest",
+        "B": "travel",
+        "C": "walk",
+        "D": "run"
+      },
+      "correct": "C",
+      "correctAnswer": "walk",
+      "explanation": "A whisper is a gentle way to speak; a stroll is a leisurely way to walk."
+    },
+    {
+      "id": "HSPT-V4-040",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which word is not in the same category as the other three?",
+      "choices": {
+        "A": "lagoon",
+        "B": "pond",
+        "C": "lake",
+        "D": "harbor"
+      },
+      "correct": "D",
+      "correctAnswer": "harbor",
+      "explanation": "A lagoon, pond, and lake are bodies of mostly enclosed water; a harbor is a sheltered place for vessels."
+    },
+    {
+      "id": "HSPT-V4-041",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which word belongs with cedar, spruce, and fir?",
+      "choices": {
+        "A": "moss",
+        "B": "pine",
+        "C": "maple",
+        "D": "vine"
+      },
+      "correct": "B",
+      "correctAnswer": "pine",
+      "explanation": "Cedar, spruce, fir, and pine are evergreen coniferous trees."
+    },
+    {
+      "id": "HSPT-V4-042",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which pair has the same relationship as kitten and litter?",
+      "choices": {
+        "A": "wolf and pack",
+        "B": "bird and feather",
+        "C": "horse and stable",
+        "D": "bee and honey"
+      },
+      "correct": "A",
+      "correctAnswer": "wolf and pack",
+      "explanation": "A kitten may belong to a litter; a wolf may belong to a pack."
+    },
+    {
+      "id": "HSPT-V4-043",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Every manuscript in the cabinet is cataloged. No cataloged item may leave the archive. Which conclusion must be true?",
+      "choices": {
+        "A": "Some manuscripts are not cataloged.",
+        "B": "Every archive item is a manuscript.",
+        "C": "No manuscript in the cabinet may leave the archive.",
+        "D": "The cabinet may leave the archive."
+      },
+      "correct": "C",
+      "correctAnswer": "No manuscript in the cabinet may leave the archive.",
+      "explanation": "The two rules place every cabinet manuscript among items that cannot leave."
+    },
+    {
+      "id": "HSPT-V4-044",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Four flags—J, K, L, and M—hang in a row. J is immediately left of K. M is left of J. L is not at either end. Which flag is first?",
+      "choices": {
+        "A": "J",
+        "B": "K",
+        "C": "L",
+        "D": "M"
+      },
+      "correct": "D",
+      "correctAnswer": "M",
+      "explanation": "The block M-J-K must occur in that order; with L not at an end, only M can be first."
+    },
+    {
+      "id": "HSPT-V4-045",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Exactly two of Ana, Bo, and Cy attend. If Ana attends, Bo does not. If Cy does not attend, Ana attends. Which pair could attend?",
+      "choices": {
+        "A": "Ana and Bo",
+        "B": "Bo and Cy",
+        "C": "Ana alone",
+        "D": "all three"
+      },
+      "correct": "B",
+      "correctAnswer": "Bo and Cy",
+      "explanation": "Bo and Cy satisfies exactly two attendees and does not violate either conditional rule."
+    },
+    {
+      "id": "HSPT-V4-046",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to vigilant?",
+      "choices": {
+        "A": "weary",
+        "B": "watchful",
+        "C": "generous",
+        "D": "uncertain"
+      },
+      "correct": "B",
+      "correctAnswer": "watchful",
+      "explanation": "Vigilant means alert and watchful for possible trouble."
+    },
+    {
+      "id": "HSPT-V4-047",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to impartial?",
+      "choices": {
+        "A": "fair",
+        "B": "impatient",
+        "C": "silent",
+        "D": "powerful"
+      },
+      "correct": "A",
+      "correctAnswer": "fair",
+      "explanation": "Impartial describes someone who is fair and does not favor one side."
+    },
+    {
+      "id": "HSPT-V4-048",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Synonyms",
+      "prompt": "Which word is closest in meaning to feasible?",
+      "choices": {
+        "A": "decorative",
+        "B": "hidden",
+        "C": "possible",
+        "D": "ordinary"
+      },
+      "correct": "C",
+      "correctAnswer": "possible",
+      "explanation": "Feasible describes something that is possible and practical to accomplish."
+    },
+    {
+      "id": "HSPT-V4-049",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to temporary?",
+      "choices": {
+        "A": "recent",
+        "B": "fragile",
+        "C": "useful",
+        "D": "permanent"
+      },
+      "correct": "D",
+      "correctAnswer": "permanent",
+      "explanation": "Temporary means lasting a limited time; permanent means lasting indefinitely."
+    },
+    {
+      "id": "HSPT-V4-050",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to timid?",
+      "choices": {
+        "A": "patient",
+        "B": "bold",
+        "C": "loyal",
+        "D": "calm"
+      },
+      "correct": "B",
+      "correctAnswer": "bold",
+      "explanation": "Timid means fearful or lacking confidence; bold expresses its opposite."
+    },
+    {
+      "id": "HSPT-V4-051",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Antonyms",
+      "prompt": "Which word is most nearly opposite in meaning to hinder?",
+      "choices": {
+        "A": "assist",
+        "B": "observe",
+        "C": "divide",
+        "D": "question"
+      },
+      "correct": "A",
+      "correctAnswer": "assist",
+      "explanation": "To hinder is to obstruct progress; to assist is to help it."
+    },
+    {
+      "id": "HSPT-V4-052",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Blueprint is to building as recipe is to ____.",
+      "choices": {
+        "A": "kitchen",
+        "B": "ingredient",
+        "C": "meal",
+        "D": "chef"
+      },
+      "correct": "C",
+      "correctAnswer": "meal",
+      "explanation": "A blueprint guides construction of a building; a recipe guides preparation of a meal."
+    },
+    {
+      "id": "HSPT-V4-053",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Gills are to fish as spiracles are to ____.",
+      "choices": {
+        "A": "mammal",
+        "B": "fern",
+        "C": "reptile",
+        "D": "insect"
+      },
+      "correct": "D",
+      "correctAnswer": "insect",
+      "explanation": "Fish breathe through gills; many insects breathe through spiracles."
+    },
+    {
+      "id": "HSPT-V4-054",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Analogies",
+      "prompt": "Opaque is to light as impermeable is to ____.",
+      "choices": {
+        "A": "sound",
+        "B": "water",
+        "C": "heat",
+        "D": "stone"
+      },
+      "correct": "B",
+      "correctAnswer": "water",
+      "explanation": "Opaque material blocks light; impermeable material blocks water from passing through."
+    },
+    {
+      "id": "HSPT-V4-055",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Three choices are prose forms. Which choice does not belong?",
+      "choices": {
+        "A": "novel",
+        "B": "memoir",
+        "C": "sonnet",
+        "D": "biography"
+      },
+      "correct": "C",
+      "correctAnswer": "sonnet",
+      "explanation": "Novel, memoir, and biography are prose forms; a sonnet is a poetic form."
+    },
+    {
+      "id": "HSPT-V4-056",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which word belongs with copper, silver, and iron?",
+      "choices": {
+        "A": "glass",
+        "B": "granite",
+        "C": "clay",
+        "D": "tin"
+      },
+      "correct": "D",
+      "correctAnswer": "tin",
+      "explanation": "Copper, silver, iron, and tin are metals."
+    },
+    {
+      "id": "HSPT-V4-057",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Verbal Classification",
+      "prompt": "Which pair has the same relationship as aviary and birds?",
+      "choices": {
+        "A": "apiary and bees",
+        "B": "orchard and farmer",
+        "C": "aquarium and water",
+        "D": "stable and hay"
+      },
+      "correct": "A",
+      "correctAnswer": "apiary and bees",
+      "explanation": "An aviary houses birds; an apiary houses colonies of bees."
+    },
+    {
+      "id": "HSPT-V4-058",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "All cedar boxes are fragrant. No fragrant object is stored in Room K. Which statement must be true?",
+      "choices": {
+        "A": "Every box outside Room K is cedar.",
+        "B": "Some fragrant objects are cedar boxes.",
+        "C": "No cedar box is stored in Room K.",
+        "D": "Room K contains no boxes."
+      },
+      "correct": "C",
+      "correctAnswer": "No cedar box is stored in Room K.",
+      "explanation": "Because every cedar box is fragrant, the rule excludes every cedar box from Room K."
+    },
+    {
+      "id": "HSPT-V4-059",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "Mara, Niko, Oren, and Pia present one at a time. Oren presents after Mara but before Pia. Niko presents after Pia. Who presents second?",
+      "choices": {
+        "A": "Mara",
+        "B": "Niko",
+        "C": "Pia",
+        "D": "Oren"
+      },
+      "correct": "D",
+      "correctAnswer": "Oren",
+      "explanation": "The constraints force the unique order Mara, Oren, Pia, Niko."
+    },
+    {
+      "id": "HSPT-V4-060",
+      "itemType": "mcq_single",
+      "section": "Verbal Skills",
+      "category": "Verbal Skills",
+      "skill": "Logical Reasoning",
+      "prompt": "A code has three different digits chosen from 2, 4, 6, and 8. The first digit is twice the second. The last digit is greater than the first. Which code works?",
+      "choices": {
+        "A": "248",
+        "B": "426",
+        "C": "624",
+        "D": "842"
+      },
+      "correct": "B",
+      "correctAnswer": "426",
+      "explanation": "Only 426 has distinct allowed digits, a first digit twice the second, and a larger final digit."
+    }
+  ]
+}

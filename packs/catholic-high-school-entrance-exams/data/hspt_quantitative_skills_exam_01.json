@@ -1,0 +1,893 @@
+{
+  "title": "HSPT Quantitative Skills Practice Test 01",
+  "examFamily": "hspt",
+  "examNumber": 1,
+  "section": "Quantitative Skills",
+  "questionCount": 52,
+  "questions": [
+    {
+      "id": "HSPT-Q1-001",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Series",
+      "prompt": "What number comes next? 7, 12, 17, 22, ____",
+      "choices": {
+        "A": "27",
+        "B": "26",
+        "C": "28",
+        "D": "32"
+      },
+      "correct": "A",
+      "correctAnswer": "27",
+      "explanation": "Each term increases by 5, so 22 + 5 = 27."
+    },
+    {
+      "id": "HSPT-Q1-002",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Series",
+      "prompt": "What number comes next? 3, 6, 18, 72, ____",
+      "choices": {
+        "A": "144",
+        "B": "360",
+        "C": "288",
+        "D": "432"
+      },
+      "correct": "B",
+      "correctAnswer": "360",
+      "explanation": "The terms are multiplied successively by 2, 3, 4, and then 5; 72 × 5 = 360."
+    },
+    {
+      "id": "HSPT-Q1-003",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Series",
+      "prompt": "What number comes next? 40, 35, 31, 28, ____",
+      "choices": {
+        "A": "24",
+        "B": "27",
+        "C": "26",
+        "D": "25"
+      },
+      "correct": "C",
+      "correctAnswer": "26",
+      "explanation": "The differences are −5, −4, and −3, so the next difference is −2; 28 − 2 = 26."
+    },
+    {
+      "id": "HSPT-Q1-004",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Series",
+      "prompt": "What number comes next? 2, 9, 4, 11, 6, 13, ____",
+      "choices": {
+        "A": "15",
+        "B": "7",
+        "C": "20",
+        "D": "8"
+      },
+      "correct": "D",
+      "correctAnswer": "8",
+      "explanation": "Two interwoven sequences increase by 2: 2, 4, 6, 8 and 9, 11, 13."
+    },
+    {
+      "id": "HSPT-Q1-005",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Manipulation",
+      "prompt": "Which number is divisible by both 6 and 9?",
+      "choices": {
+        "A": "54",
+        "B": "36",
+        "C": "45",
+        "D": "63"
+      },
+      "correct": "A",
+      "correctAnswer": "54",
+      "explanation": "A number divisible by both 6 and 9 must be divisible by 18, and 54 ÷ 18 = 3."
+    },
+    {
+      "id": "HSPT-Q1-006",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Manipulation",
+      "prompt": "A quantity increases from 80 to 100. What is the percent increase?",
+      "choices": {
+        "A": "20%",
+        "B": "25%",
+        "C": "40%",
+        "D": "80%"
+      },
+      "correct": "B",
+      "correctAnswer": "25%",
+      "explanation": "The increase is 20, and 20 ÷ 80 = 0.25 = 25%."
+    },
+    {
+      "id": "HSPT-Q1-007",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Manipulation",
+      "prompt": "If 3/5 of a number is 27, what is the number?",
+      "choices": {
+        "A": "16.2",
+        "B": "32",
+        "C": "45",
+        "D": "81"
+      },
+      "correct": "C",
+      "correctAnswer": "45",
+      "explanation": "Divide 27 by 3/5: 27 × 5/3 = 45."
+    },
+    {
+      "id": "HSPT-Q1-008",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Nongeometric Quantitative Comparison",
+      "prompt": "x is a nonzero number. Quantity A: x. Quantity B: −x.",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "D",
+      "correctAnswer": "The relationship cannot be determined from the information given.",
+      "explanation": "If x is positive, Quantity A is greater; if x is negative, Quantity B is greater."
+    },
+    {
+      "id": "HSPT-Q1-009",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Nongeometric Quantitative Comparison",
+      "prompt": "n is a positive integer. Quantity A: n + 6. Quantity B: n + 2.",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "A",
+      "correctAnswer": "Quantity A is greater.",
+      "explanation": "Both quantities contain n, and 6 is greater than 2, so Quantity A is always 4 greater."
+    },
+    {
+      "id": "HSPT-Q1-010",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Nongeometric Quantitative Comparison",
+      "prompt": "Quantity A: 5² − 10. Quantity B: 2³ + 8.",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "B",
+      "correctAnswer": "Quantity B is greater.",
+      "explanation": "Quantity A is 25 − 10 = 15, while Quantity B is 8 + 8 = 16."
+    },
+    {
+      "id": "HSPT-Q1-011",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Geometric Quantitative Comparison",
+      "prompt": "A rectangle has length 6 units and width 3 units. Quantity A: its area. Quantity B: its perimeter.",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "C",
+      "correctAnswer": "The two quantities are equal.",
+      "explanation": "The area is 6 × 3 = 18, and the perimeter is 2(6 + 3) = 18."
+    },
+    {
+      "id": "HSPT-Q1-012",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Geometric Quantitative Comparison",
+      "prompt": "An isosceles triangle has a vertex angle of x°. Quantity A: either base angle. Quantity B: 60°.",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "D",
+      "correctAnswer": "The relationship cannot be determined from the information given.",
+      "explanation": "Each base angle is (180° − x°) ÷ 2, which may be above, below, or equal to 60°."
+    },
+    {
+      "id": "HSPT-Q1-013",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Geometric Quantitative Comparison",
+      "prompt": "A circle has a radius of 4 units. Quantity A: the circle's diameter. Quantity B: 9 units.",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "B",
+      "correctAnswer": "Quantity B is greater.",
+      "explanation": "The diameter is 2 × 4 = 8 units, which is less than 9 units."
+    },
+    {
+      "id": "HSPT-Q1-014",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Series",
+      "prompt": "What number comes next? 1, 4, 10, 19, 31, ____",
+      "choices": {
+        "A": "40",
+        "B": "43",
+        "C": "46",
+        "D": "50"
+      },
+      "correct": "C",
+      "correctAnswer": "46",
+      "explanation": "The increases are 3, 6, 9, and 12; adding the next increase, 15, gives 46."
+    },
+    {
+      "id": "HSPT-Q1-015",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Series",
+      "prompt": "What number comes next? 160, 80, 40, 20, ____",
+      "choices": {
+        "A": "15",
+        "B": "8",
+        "C": "5",
+        "D": "10"
+      },
+      "correct": "D",
+      "correctAnswer": "10",
+      "explanation": "Each term is half the preceding term, so 20 ÷ 2 = 10."
+    },
+    {
+      "id": "HSPT-Q1-016",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Series",
+      "prompt": "What number comes next? 5, 8, 16, 19, 38, ____",
+      "choices": {
+        "A": "41",
+        "B": "57",
+        "C": "76",
+        "D": "35"
+      },
+      "correct": "A",
+      "correctAnswer": "41",
+      "explanation": "The pattern alternates between adding 3 and multiplying by 2; 38 + 3 = 41."
+    },
+    {
+      "id": "HSPT-Q1-017",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Manipulation",
+      "prompt": "Which expression has the same value as 7(12 − 5)?",
+      "choices": {
+        "A": "84 − 5",
+        "B": "7 × 12 − 7 × 5",
+        "C": "12 − 35",
+        "D": "7 × 12 + 7 × 5"
+      },
+      "correct": "B",
+      "correctAnswer": "7 × 12 − 7 × 5",
+      "explanation": "The distributive property gives 7(12 − 5) = 7 × 12 − 7 × 5."
+    },
+    {
+      "id": "HSPT-Q1-018",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Manipulation",
+      "prompt": "The ratio of blue flags to red flags is 4:7. If there are 28 red flags, how many blue flags are there?",
+      "choices": {
+        "A": "12",
+        "B": "14",
+        "C": "16",
+        "D": "49"
+      },
+      "correct": "C",
+      "correctAnswer": "16",
+      "explanation": "Twenty-eight red flags represent four groups of 7, so blue flags equal 4 × 4 = 16."
+    },
+    {
+      "id": "HSPT-Q1-019",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Manipulation",
+      "prompt": "Which value makes 0.6 × n = 7.2 true?",
+      "choices": {
+        "A": "4.32",
+        "B": "7.8",
+        "C": "43.2",
+        "D": "12"
+      },
+      "correct": "D",
+      "correctAnswer": "12",
+      "explanation": "Divide both sides by 0.6: n = 7.2 ÷ 0.6 = 12."
+    },
+    {
+      "id": "HSPT-Q1-020",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Manipulation",
+      "prompt": "A number rounds to 5,300 to the nearest hundred. Which could be the number?",
+      "choices": {
+        "A": "5,297",
+        "B": "5,348",
+        "C": "5,351",
+        "D": "5,449"
+      },
+      "correct": "A",
+      "correctAnswer": "5,297",
+      "explanation": "Numbers from 5,250 through 5,349 round to 5,300, so 5,297 qualifies."
+    },
+    {
+      "id": "HSPT-Q1-021",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Nongeometric Quantitative Comparison",
+      "prompt": "Quantity A: 3/5 ÷ 2/3. Quantity B: 1.",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "B",
+      "correctAnswer": "Quantity B is greater.",
+      "explanation": "3/5 ÷ 2/3 = 3/5 × 3/2 = 9/10, which is less than 1."
+    },
+    {
+      "id": "HSPT-Q1-022",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Nongeometric Quantitative Comparison",
+      "prompt": "Quantity A: the least common multiple of 8 and 12. Quantity B: 30.",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "B",
+      "correctAnswer": "Quantity B is greater.",
+      "explanation": "The least common multiple of 8 and 12 is 24, which is less than 30."
+    },
+    {
+      "id": "HSPT-Q1-023",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Nongeometric Quantitative Comparison",
+      "prompt": "y = 3. Quantity A: y². Quantity B: 3y.",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "C",
+      "correctAnswer": "The two quantities are equal.",
+      "explanation": "With y = 3, both y² and 3y equal 9."
+    },
+    {
+      "id": "HSPT-Q1-024",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Geometric Quantitative Comparison",
+      "prompt": "A square has side length s units, where s > 0. Quantity A: its area. Quantity B: its perimeter.",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "D",
+      "correctAnswer": "The relationship cannot be determined from the information given.",
+      "explanation": "Comparing s² with 4s depends on whether s is below, equal to, or above 4."
+    },
+    {
+      "id": "HSPT-Q1-025",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Geometric Quantitative Comparison",
+      "prompt": "Two angles form a linear pair. One angle measures 60°. Quantity A: the other angle. Quantity B: 90°.",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "A",
+      "correctAnswer": "Quantity A is greater.",
+      "explanation": "The other angle is 180° − 60° = 120°, which is greater than 90°."
+    },
+    {
+      "id": "HSPT-Q1-026",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Geometric Quantitative Comparison",
+      "prompt": "A rectangular prism measures 2 units by 3 units by 4 units. Quantity A: its volume. Quantity B: 24 cubic units.",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "C",
+      "correctAnswer": "The two quantities are equal.",
+      "explanation": "The volume is 2 × 3 × 4 = 24 cubic units, equal to Quantity B."
+    },
+    {
+      "id": "HSPT-Q1-027",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Series",
+      "prompt": "What number comes next? 2, 5, 11, 23, 47, ____",
+      "choices": {
+        "A": "71",
+        "B": "93",
+        "C": "96",
+        "D": "95"
+      },
+      "correct": "D",
+      "correctAnswer": "95",
+      "explanation": "Each term is twice the preceding term plus 1, so 47 × 2 + 1 = 95."
+    },
+    {
+      "id": "HSPT-Q1-028",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Series",
+      "prompt": "What number comes next? 81, 64, 49, 36, ____",
+      "choices": {
+        "A": "25",
+        "B": "24",
+        "C": "18",
+        "D": "16"
+      },
+      "correct": "A",
+      "correctAnswer": "25",
+      "explanation": "The terms are descending squares: 9², 8², 7², 6², then 5² = 25."
+    },
+    {
+      "id": "HSPT-Q1-029",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Series",
+      "prompt": "What number comes next? 6, 7, 14, 16, 48, 51, ____",
+      "choices": {
+        "A": "102",
+        "B": "204",
+        "C": "54",
+        "D": "153"
+      },
+      "correct": "B",
+      "correctAnswer": "204",
+      "explanation": "The operations are +1, ×2, +2, ×3, +3, then ×4; 51 × 4 = 204."
+    },
+    {
+      "id": "HSPT-Q1-030",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Series",
+      "prompt": "What number comes next? 3/4, 3/8, 3/16, 3/32, ____",
+      "choices": {
+        "A": "3/36",
+        "B": "3/48",
+        "C": "3/64",
+        "D": "3/96"
+      },
+      "correct": "C",
+      "correctAnswer": "3/64",
+      "explanation": "Each term is divided by 2, so 3/32 ÷ 2 = 3/64."
+    },
+    {
+      "id": "HSPT-Q1-031",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Manipulation",
+      "prompt": "If 2/7 of the students equals 10 students, how many students are there altogether?",
+      "choices": {
+        "A": "28",
+        "B": "30",
+        "C": "32",
+        "D": "35"
+      },
+      "correct": "D",
+      "correctAnswer": "35",
+      "explanation": "If 2 parts equal 10, one part equals 5; therefore 7 parts equal 35."
+    },
+    {
+      "id": "HSPT-Q1-032",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Manipulation",
+      "prompt": "Which expression has the greatest value?",
+      "choices": {
+        "A": "3² + 4",
+        "B": "2 × 7",
+        "C": "20 − 5",
+        "D": "32 ÷ 2"
+      },
+      "correct": "D",
+      "correctAnswer": "32 ÷ 2",
+      "explanation": "The values are 13, 14, 15, and 16, so 32 ÷ 2 is greatest."
+    },
+    {
+      "id": "HSPT-Q1-033",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Manipulation",
+      "prompt": "A $50 item is increased in price by 20% and then decreased by 20%. What is the final price?",
+      "choices": {
+        "A": "$48",
+        "B": "$50",
+        "C": "$40",
+        "D": "$52"
+      },
+      "correct": "A",
+      "correctAnswer": "$48",
+      "explanation": "The price becomes $60, then decreases by $12; $60 − $12 = $48."
+    },
+    {
+      "id": "HSPT-Q1-034",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Nongeometric Quantitative Comparison",
+      "prompt": "Quantity A: the remainder when 53 is divided by 6. Quantity B: 4.",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "A",
+      "correctAnswer": "Quantity A is greater.",
+      "explanation": "53 ÷ 6 leaves remainder 5, and 5 is greater than 4."
+    },
+    {
+      "id": "HSPT-Q1-035",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Nongeometric Quantitative Comparison",
+      "prompt": "k is a negative number. Quantity A: k − 2. Quantity B: k.",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "B",
+      "correctAnswer": "Quantity B is greater.",
+      "explanation": "Subtracting 2 makes any number smaller, so k is greater than k − 2."
+    },
+    {
+      "id": "HSPT-Q1-036",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Nongeometric Quantitative Comparison",
+      "prompt": "Quantity A: 0.45 × 200. Quantity B: 90.",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "C",
+      "correctAnswer": "The two quantities are equal.",
+      "explanation": "0.45 × 200 = 90, which equals Quantity B."
+    },
+    {
+      "id": "HSPT-Q1-037",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Geometric Quantitative Comparison",
+      "prompt": "A triangle has side lengths 5, 5, and x, where x is a positive integer. Quantity A: its perimeter. Quantity B: 18.",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "D",
+      "correctAnswer": "The relationship cannot be determined from the information given.",
+      "explanation": "Valid integer values of x can make 10 + x less than, equal to, or greater than 18."
+    },
+    {
+      "id": "HSPT-Q1-038",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Geometric Quantitative Comparison",
+      "prompt": "A cube has edge length 3 units. Quantity A: the area of one face. Quantity B: the cube's volume.",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "B",
+      "correctAnswer": "Quantity B is greater.",
+      "explanation": "One face has area 3² = 9, while the cube's volume is 3³ = 27."
+    },
+    {
+      "id": "HSPT-Q1-039",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Geometric Quantitative Comparison",
+      "prompt": "A parallelogram has base b and height h. Quantity A: its area. Quantity B: bh.",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "C",
+      "correctAnswer": "The two quantities are equal.",
+      "explanation": "The area formula for a parallelogram is base × height, or bh."
+    },
+    {
+      "id": "HSPT-Q1-040",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Series",
+      "prompt": "What number comes next? 4, 6, 10, 18, 34, ____",
+      "choices": {
+        "A": "66",
+        "B": "52",
+        "C": "68",
+        "D": "50"
+      },
+      "correct": "A",
+      "correctAnswer": "66",
+      "explanation": "The differences double: 2, 4, 8, 16, then 32; 34 + 32 = 66."
+    },
+    {
+      "id": "HSPT-Q1-041",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Series",
+      "prompt": "What number comes next? 100, 96, 88, 76, 60, ____",
+      "choices": {
+        "A": "44",
+        "B": "40",
+        "C": "36",
+        "D": "32"
+      },
+      "correct": "B",
+      "correctAnswer": "40",
+      "explanation": "Successive subtractions are 4, 8, 12, and 16; subtracting 20 next gives 40."
+    },
+    {
+      "id": "HSPT-Q1-042",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Series",
+      "prompt": "What number comes next? 2, 6, 12, 20, 30, ____",
+      "choices": {
+        "A": "36",
+        "B": "40",
+        "C": "42",
+        "D": "44"
+      },
+      "correct": "C",
+      "correctAnswer": "42",
+      "explanation": "The terms are products 1 × 2, 2 × 3, 3 × 4, and so on; 6 × 7 = 42."
+    },
+    {
+      "id": "HSPT-Q1-043",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Manipulation",
+      "prompt": "Which value of n makes 5n + 2 = 3n + 18 true?",
+      "choices": {
+        "A": "6",
+        "B": "7",
+        "C": "10",
+        "D": "8"
+      },
+      "correct": "D",
+      "correctAnswer": "8",
+      "explanation": "Subtract 3n and 2: 2n = 16, so n = 8."
+    },
+    {
+      "id": "HSPT-Q1-044",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Manipulation",
+      "prompt": "What is the smallest positive number divisible by 9, 12, and 15?",
+      "choices": {
+        "A": "180",
+        "B": "90",
+        "C": "120",
+        "D": "540"
+      },
+      "correct": "A",
+      "correctAnswer": "180",
+      "explanation": "The least common multiple of 9, 12, and 15 is 2² × 3² × 5 = 180."
+    },
+    {
+      "id": "HSPT-Q1-045",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Manipulation",
+      "prompt": "A mixture uses juice and water in a ratio of 3:2. If the mixture totals 25 cups, how many cups are water?",
+      "choices": {
+        "A": "5",
+        "B": "10",
+        "C": "15",
+        "D": "20"
+      },
+      "correct": "B",
+      "correctAnswer": "10",
+      "explanation": "Water is 2 of 5 equal parts, so 2/5 × 25 = 10 cups."
+    },
+    {
+      "id": "HSPT-Q1-046",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Number Manipulation",
+      "prompt": "Which decimal is equal to 7/16?",
+      "choices": {
+        "A": "0.375",
+        "B": "0.425",
+        "C": "0.4375",
+        "D": "0.625"
+      },
+      "correct": "C",
+      "correctAnswer": "0.4375",
+      "explanation": "Dividing 7 by 16 gives 0.4375."
+    },
+    {
+      "id": "HSPT-Q1-047",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Nongeometric Quantitative Comparison",
+      "prompt": "Quantity A: 2⁵. Quantity B: 5² + 7.",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "C",
+      "correctAnswer": "The two quantities are equal.",
+      "explanation": "Both quantities equal 32: 2⁵ = 32 and 5² + 7 = 32."
+    },
+    {
+      "id": "HSPT-Q1-048",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Nongeometric Quantitative Comparison",
+      "prompt": "m > 0. Quantity A: m/4. Quantity B: m/5.",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "A",
+      "correctAnswer": "Quantity A is greater.",
+      "explanation": "For positive m, dividing by 4 gives a larger result than dividing by 5."
+    },
+    {
+      "id": "HSPT-Q1-049",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Nongeometric Quantitative Comparison",
+      "prompt": "x is a nonzero number. Quantity A: x. Quantity B: |x|.",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "D",
+      "correctAnswer": "The relationship cannot be determined from the information given.",
+      "explanation": "If x is positive the quantities are equal; if x is negative, Quantity B is greater."
+    },
+    {
+      "id": "HSPT-Q1-050",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Geometric Quantitative Comparison",
+      "prompt": "A right angle is divided into two angles. One measures x°. Quantity A: the other angle. Quantity B: 55°.",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "D",
+      "correctAnswer": "The relationship cannot be determined from the information given.",
+      "explanation": "The other angle is 90° − x°, so its relationship to 55° depends on x."
+    },
+    {
+      "id": "HSPT-Q1-051",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Geometric Quantitative Comparison",
+      "prompt": "A circle has diameter 12 units. Quantity A: its radius. Quantity B: 5 units.",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "A",
+      "correctAnswer": "Quantity A is greater.",
+      "explanation": "The radius is 12 ÷ 2 = 6 units, which is greater than 5."
+    },
+    {
+      "id": "HSPT-Q1-052",
+      "itemType": "mcq_single",
+      "section": "Quantitative Skills",
+      "category": "Quantitative Skills",
+      "skill": "Geometric Quantitative Comparison",
+      "prompt": "A rectangle has area 48 square units and length 8 units. Quantity A: its width. Quantity B: 7 units.",
+      "choices": {
+        "A": "Quantity A is greater.",
+        "B": "Quantity B is greater.",
+        "C": "The two quantities are equal.",
+        "D": "The relationship cannot be determined from the information given."
+      },
+      "correct": "B",
+      "correctAnswer": "Quantity B is greater.",
+      "explanation": "The width is 48 ÷ 8 = 6 units, which is less than 7."
+    }
+  ]
+}

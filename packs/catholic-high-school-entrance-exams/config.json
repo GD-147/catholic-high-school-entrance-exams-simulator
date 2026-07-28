@@ -41,13 +41,7 @@
         "hspt_verbal_skills_exam_01.json",
         "hspt_verbal_skills_exam_02.json",
         "hspt_verbal_skills_exam_03.json",
-        "hspt_verbal_skills_exam_04.json",
-        "hspt_verbal_skills_exam_05.json",
-        "hspt_verbal_skills_exam_06.json",
-        "hspt_verbal_skills_exam_07.json",
-        "hspt_verbal_skills_exam_08.json",
-        "hspt_verbal_skills_exam_09.json",
-        "hspt_verbal_skills_exam_10.json"
+        "hspt_verbal_skills_exam_04.json"
       ]
     },
     {
@@ -62,13 +56,7 @@
         "hspt_quantitative_skills_exam_01.json",
         "hspt_quantitative_skills_exam_02.json",
         "hspt_quantitative_skills_exam_03.json",
-        "hspt_quantitative_skills_exam_04.json",
-        "hspt_quantitative_skills_exam_05.json",
-        "hspt_quantitative_skills_exam_06.json",
-        "hspt_quantitative_skills_exam_07.json",
-        "hspt_quantitative_skills_exam_08.json",
-        "hspt_quantitative_skills_exam_09.json",
-        "hspt_quantitative_skills_exam_10.json"
+        "hspt_quantitative_skills_exam_04.json"
       ]
     },
     {
@@ -83,13 +71,7 @@
         "hspt_reading_comprehension_exam_01.json",
         "hspt_reading_comprehension_exam_02.json",
         "hspt_reading_comprehension_exam_03.json",
-        "hspt_reading_comprehension_exam_04.json",
-        "hspt_reading_comprehension_exam_05.json",
-        "hspt_reading_comprehension_exam_06.json",
-        "hspt_reading_comprehension_exam_07.json",
-        "hspt_reading_comprehension_exam_08.json",
-        "hspt_reading_comprehension_exam_09.json",
-        "hspt_reading_comprehension_exam_10.json"
+        "hspt_reading_comprehension_exam_04.json"
       ]
     },
     {
@@ -104,13 +86,7 @@
         "hspt_mathematics_exam_01.json",
         "hspt_mathematics_exam_02.json",
         "hspt_mathematics_exam_03.json",
-        "hspt_mathematics_exam_04.json",
-        "hspt_mathematics_exam_05.json",
-        "hspt_mathematics_exam_06.json",
-        "hspt_mathematics_exam_07.json",
-        "hspt_mathematics_exam_08.json",
-        "hspt_mathematics_exam_09.json",
-        "hspt_mathematics_exam_10.json"
+        "hspt_mathematics_exam_04.json"
       ]
     },
     {
@@ -125,13 +101,7 @@
         "hspt_language_exam_01.json",
         "hspt_language_exam_02.json",
         "hspt_language_exam_03.json",
-        "hspt_language_exam_04.json",
-        "hspt_language_exam_05.json",
-        "hspt_language_exam_06.json",
-        "hspt_language_exam_07.json",
-        "hspt_language_exam_08.json",
-        "hspt_language_exam_09.json",
-        "hspt_language_exam_10.json"
+        "hspt_language_exam_04.json"
       ]
     },
     {

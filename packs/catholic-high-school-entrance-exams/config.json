@@ -176,13 +176,7 @@
         "coop_mathematics_exam_01.json",
         "coop_mathematics_exam_02.json",
         "coop_mathematics_exam_03.json",
-        "coop_mathematics_exam_04.json",
-        "coop_mathematics_exam_05.json",
-        "coop_mathematics_exam_06.json",
-        "coop_mathematics_exam_07.json",
-        "coop_mathematics_exam_08.json",
-        "coop_mathematics_exam_09.json",
-        "coop_mathematics_exam_10.json"
+        "coop_mathematics_exam_04.json"
       ]
     },
     {
@@ -197,13 +191,7 @@
         "coop_reading_comprehension_exam_01.json",
         "coop_reading_comprehension_exam_02.json",
         "coop_reading_comprehension_exam_03.json",
-        "coop_reading_comprehension_exam_04.json",
-        "coop_reading_comprehension_exam_05.json",
-        "coop_reading_comprehension_exam_06.json",
-        "coop_reading_comprehension_exam_07.json",
-        "coop_reading_comprehension_exam_08.json",
-        "coop_reading_comprehension_exam_09.json",
-        "coop_reading_comprehension_exam_10.json"
+        "coop_reading_comprehension_exam_04.json"
       ]
     },
     {
@@ -218,13 +206,7 @@
         "coop_vocabulary_exam_01.json",
         "coop_vocabulary_exam_02.json",
         "coop_vocabulary_exam_03.json",
-        "coop_vocabulary_exam_04.json",
-        "coop_vocabulary_exam_05.json",
-        "coop_vocabulary_exam_06.json",
-        "coop_vocabulary_exam_07.json",
-        "coop_vocabulary_exam_08.json",
-        "coop_vocabulary_exam_09.json",
-        "coop_vocabulary_exam_10.json"
+        "coop_vocabulary_exam_04.json"
       ]
     },
     {
@@ -239,13 +221,7 @@
         "coop_grammar_exam_01.json",
         "coop_grammar_exam_02.json",
         "coop_grammar_exam_03.json",
-        "coop_grammar_exam_04.json",
-        "coop_grammar_exam_05.json",
-        "coop_grammar_exam_06.json",
-        "coop_grammar_exam_07.json",
-        "coop_grammar_exam_08.json",
-        "coop_grammar_exam_09.json",
-        "coop_grammar_exam_10.json"
+        "coop_grammar_exam_04.json"
       ]
     },
     {
@@ -260,13 +236,7 @@
         "coop_spelling_exam_01.json",
         "coop_spelling_exam_02.json",
         "coop_spelling_exam_03.json",
-        "coop_spelling_exam_04.json",
-        "coop_spelling_exam_05.json",
-        "coop_spelling_exam_06.json",
-        "coop_spelling_exam_07.json",
-        "coop_spelling_exam_08.json",
-        "coop_spelling_exam_09.json",
-        "coop_spelling_exam_10.json"
+        "coop_spelling_exam_04.json"
       ]
     }
   ],
@@ -292,56 +262,6 @@
       "file": "hspt_full_exam_04.pdf"
     },
     {
-      "family": "coop",
-      "label": "COOP Full-Length Practice Exam 01",
-      "file": "coop_full_exam_01.pdf"
-    },
-    {
-      "family": "coop",
-      "label": "COOP Full-Length Practice Exam 02",
-      "file": "coop_full_exam_02.pdf"
-    },
-    {
-      "family": "coop",
-      "label": "COOP Full-Length Practice Exam 03",
-      "file": "coop_full_exam_03.pdf"
-    },
-    {
-      "family": "coop",
-      "label": "COOP Full-Length Practice Exam 04",
-      "file": "coop_full_exam_04.pdf"
-    },
-    {
-      "family": "coop",
-      "label": "COOP Full-Length Practice Exam 05",
-      "file": "coop_full_exam_05.pdf"
-    },
-    {
-      "family": "coop",
-      "label": "COOP Full-Length Practice Exam 06",
-      "file": "coop_full_exam_06.pdf"
-    },
-    {
-      "family": "coop",
-      "label": "COOP Full-Length Practice Exam 07",
-      "file": "coop_full_exam_07.pdf"
-    },
-    {
-      "family": "coop",
-      "label": "COOP Full-Length Practice Exam 08",
-      "file": "coop_full_exam_08.pdf"
-    },
-    {
-      "family": "coop",
-      "label": "COOP Full-Length Practice Exam 09",
-      "file": "coop_full_exam_09.pdf"
-    },
-    {
-      "family": "coop",
-      "label": "COOP Full-Length Practice Exam 10",
-      "file": "coop_full_exam_10.pdf"
-    },
-    {
       "family": "tachs",
       "label": "TACHS Full-Length Practice Exam 01",
       "file": "tachs_full_exam_01.pdf"
@@ -360,6 +280,26 @@
       "family": "tachs",
       "label": "TACHS Full-Length Practice Exam 04",
       "file": "tachs_full_exam_04.pdf"
+    },
+    {
+      "family": "coop",
+      "label": "COOP Full-Length Practice Exam 01",
+      "file": "coop_full_exam_01.pdf"
+    },
+    {
+      "family": "coop",
+      "label": "COOP Full-Length Practice Exam 02",
+      "file": "coop_full_exam_02.pdf"
+    },
+    {
+      "family": "coop",
+      "label": "COOP Full-Length Practice Exam 03",
+      "file": "coop_full_exam_03.pdf"
+    },
+    {
+      "family": "coop",
+      "label": "COOP Full-Length Practice Exam 04",
+      "file": "coop_full_exam_04.pdf"
     }
   ],
   "flashcards": []
